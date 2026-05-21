@@ -30,7 +30,10 @@ jobs:
 
     # 4. Executa o script que coleta o EPG e gera o XML
     - name: Rodar Gerador XMLTV
-      run: python gerador_xmltv.py
+      run: python ExtrairGerar.py
+      env:
+  FREECAST_TOKEN: ${{ secrets.FREECAST_TOKEN }}
+  
 
     # 5. Salva o arquivo gerado de volta no seu GitHub
     - name: Commit e Push do arquivo XMLTV
