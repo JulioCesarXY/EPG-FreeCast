@@ -43,4 +43,4 @@ O repositório está organizado da seguinte forma:
 ├── ExtrairGerar.py             # Script principal do EPG / XMLTV
 ├── extrair_streams.py          # Script principal dos Canais / M3U
 ├── freecast_epg.xml            # Guia de programação XMLTV final
-└── freecast_canais.m3u # Lista de reprodução IPTV final
+└── freecast_canais.m3u         # Lista de reprodução IPTV final
