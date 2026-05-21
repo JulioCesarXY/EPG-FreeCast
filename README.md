@@ -39,7 +39,7 @@ O repositório está organizado da seguinte forma:
 ├── .github/
 │   └── workflows/
 │       ├── atualizar_epg.yml   # Agendamento diário do guia XMLTV
-│       └── atualizar_m3u.yml   # Agendamento semestral das URLs de vídeo
+│       └── atualizar_m3u.yml   # Agendamento diário das URLs de vídeo
 ├── ExtrairGerar.py             # Script principal do EPG / XMLTV
 ├── extrair_streams.py          # Script principal dos Canais / M3U
 ├── freecast_epg.xml            # Guia de programação XMLTV final
