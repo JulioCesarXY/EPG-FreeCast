@@ -29,5 +29,5 @@ O fluxo de trabalho configurado no GitHub Actions executa os seguintes passos:
 Após a primeira execução bem-sucedida, o seu arquivo XML estará disponível publicamente. Você pode copiar o link direto (Raw) do GitHub para colar no seu aplicativo de IPTV:
 
 ```text
-[https://raw.githubusercontent.com/JulioCesarXY/EPG-FreeCast/main/freecast_epg.xml](https://raw.githubusercontent.com/JulioCesarXY/EPG-FreeCast/main/freecast_epg.xml)
+https://raw.githubusercontent.com/JulioCesarXY/EPG-FreeCast/main/freecast_epg.xml
 
