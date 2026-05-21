@@ -20,7 +20,7 @@ jobs:
     - name: Configurar Python
       uses: actions/setup-python@v5
       with:
-        python-python: '3.10'
+        python-version: '3.10'
 
     # 3. Instala as dependências necessárias (requests)
     - name: Instalar Dependências
@@ -30,10 +30,9 @@ jobs:
 
     # 4. Executa o script que coleta o EPG e gera o XML
     - name: Rodar Gerador XMLTV
-      run: python ExtrairGerar.py
+      run: python gerador_xmltv.py
       env:
-  FREECAST_TOKEN: ${{ secrets.FREECAST_TOKEN }}
-  
+        FREECAST_TOKEN: ${{ secrets.FREECAST_TOKEN }}
 
     # 5. Salva o arquivo gerado de volta no seu GitHub
     - name: Commit e Push do arquivo XMLTV
