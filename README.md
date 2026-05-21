@@ -2,6 +2,8 @@
 
 [![Status do EPG](https://github.com/JulioCesarXY/EPG-FreeCast/actions/workflows/atualizar_epg.yml/badge.svg)](https://github.com/JulioCesarXY/EPG-FreeCast/actions/workflows/atualizar_epg.yml)
 [![Status da Lista M3U](https://github.com/JulioCesarXY/EPG-FreeCast/actions/workflows/atualizar_m3u.yml/badge.svg)](https://github.com/JulioCesarXY/EPG-FreeCast/actions/workflows/atualizar_m3u.yml)
+![Status da API FreeCast](https://img.shields.io/http/status/https/api-services.freecast.com/live/api/v10/watch-freecast-com/web/packages/free/categories/.svg?label=API%20FreeCast&color=success)
+
 
 
 Este repositório contém uma solução automatizada em Python para mapear, categorizar e extrair canais de TV ao vivo da plataforma FreeCast. O projeto gera de forma independente e integrada dois arquivos essenciais para players de IPTV modernos: a **Lista de Canais (.m3u)** e a **Grade de Programação (.xml)**.
