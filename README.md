@@ -12,11 +12,11 @@ Após a execução das automações, o GitHub gera os links diretos (*Raw*) abai
 
 * **📺 Lista M3U (Canais com Categorias):**
     ```text
-    https://raw.githubusercontent.com/JulioCesarXY/EPG-FreeCast/main/freecast_canais.m3u
+    https://raw.githubusercontent.com/JulioCesarXY/EPG-FreeCast/refs/heads/main/freecast_canais.m3u
     ```
 * **📅 Guia EPG (Padrão XMLTV):**
     ```text
-    https://raw.githubusercontent.com/JulioCesarXY/EPG-FreeCast/main/freecast_epg.xml
+    https://raw.githubusercontent.com/JulioCesarXY/EPG-FreeCast/refs/heads/main/freecast_epg.xml
     ```
 
 *(Nota: Substitua `SEU_USUARIO` e `SEU_REPOSITORIO` pelos dados reais do seu perfil e repositório do GitHub).*
