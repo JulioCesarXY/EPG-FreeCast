@@ -6,6 +6,8 @@ Toda a infraestrutura é atualizada de forma 100% autônoma utilizando o **GitHu
 
 ---
 
+![Demostração](Screenshot.png)
+
 ## 📦 Arquivos Gerados e Links Úteis
 
 Após a execução das automações, o GitHub gera os links diretos (*Raw*) abaixo. Você pode copiá-los e colá-los diretamente no seu player de IPTV (como Tivimate, OTT Navigator, Smart IPTV, Plex ou Jellyfin):
