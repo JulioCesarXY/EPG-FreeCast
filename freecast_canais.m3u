@@ -1,0 +1,533 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="cms-curiosity-now" tvg-name="cms-curiosity-now" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/ab2984bb-de51-4f40-a529-22bf280324c7-1717011435.112132.256x256.jpg" group-title="Featured", Curiosity Now
+https://freecast.telos.indicue.com/stream.m3u8?aid=6212&m=aHR0cHM6Ly9hbWcwMDE3MC1jdXJpb3NpdHlzdHJlYW0tY3VyaW9zaXR5bm93LWZyZWVjYXN0LWRnNndoLmFtYWdpLnR2L2N1cmlvc2l0eV9vbm8ubTN1OA==&format=freecast_amagi&session=010
+#EXTINF:-1 tvg-id="cms-stadium" tvg-name="cms-stadium" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/bec19c7b-0450-44d2-a397-16e94406f6d7-1742570223.64413.256x256.jpg" group-title="Featured", Stadium
+https://freecast.telos.indicue.com/stream.m3u8?troute=142&m=aHR0cHM6Ly9mcmVlY2FzdC5zdGFkaXVtLnRha2Vycy5iYWxseXMudHYvb3V0L3YxLzIxZDYyZjkwOTM2ZDQ5OTA5ZGM1YTZiNDc1NzU1NmJlL3BsYXlsaXN0Lm0zdTg=
+#EXTINF:-1 tvg-id="sc-384750" tvg-name="sc-384750" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/cc1b89bf-3800-4ef6-97ce-7d18ac8c8bd1-1698870962.114219.256x256.png" group-title="Featured", Newsmax2
+https://freecast.telos.indicue.com/stream.m3u8?aid=6213&m=aHR0cHM6Ly9ubXhsaXZlLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvNTI5OTY1L0xpdmVfMS9pbmRleC5tM3U4&format=freecast_nmxlive&session=030
+#EXTINF:-1 tvg-id="sc-389371" tvg-name="sc-389371" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/082f535b-acad-4ec1-977e-da205f4d901b-1741634783.243562.256x256.png" group-title="Featured", Yahoo Finance
+https://freecast.telos.indicue.com/stream.m3u8?aid=6385&m=aHR0cHM6Ly9hbWcwMDExOS1hbWcwMDExOWMyLWZyZWVjYXN0LXVzLTg2MDkucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTg=
+#EXTINF:-1 tvg-id="cms-sportsgrid" tvg-name="cms-sportsgrid" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/ed7a0737-de26-49be-b28f-83361fbcc516-1676409891.89913.256x256.jpg" group-title="Featured", SportsGrid
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-freecast/playlist.m3u8?min_ad_duration=6&max_ad_duration=120&app_name=Freecast&content_network=sportsgrid&rights_holder=sportsgrid
+#EXTINF:-1 tvg-id="sc-384770" tvg-name="sc-384770" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/08337255-069a-40e1-a4b5-ac27960f0b43-1690828342.502595.256x256.png" group-title="Featured", World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SelectTV/150.m3u8
+#EXTINF:-1 tvg-id="cms-hbcu-go" tvg-name="cms-hbcu-go" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/2127e761-3c18-4e8d-b58b-c463a836e3a5-1678922579.493643.256x256.jpg" group-title="Featured", HBCU GO
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00876-allenmedia-hbcugo-selecttv/playlist.m3u8
+#EXTINF:-1 tvg-id="sc-400583" tvg-name="sc-400583" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/088ce610-528c-453a-b2d7-f706c7914d2a-1762957479.138074.256x256.jpg" group-title="Featured", Motorvision TV
+https://api-ott.motorvision.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=1199&partner=selecttv
+#EXTINF:-1 tvg-id="sc-402999" tvg-name="sc-402999" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/8d5dbd52-cbf6-4bbd-818f-14d62c218636-1684848006.22944.256x256.jpg" group-title="Featured", ACL Cornhole TV
+https://freecast.telos.indicue.com/stream.m3u8?troute=145&m=aHR0cHM6Ly9iYmItYWNsY28tZnJlZWNhc3Qub3R0ZXJhdmlzaW9uLmNvbS9iYmIvYWNsY28vYWNsY28ubTN1OA==
+#EXTINF:-1 tvg-id="sc-402996" tvg-name="sc-402996" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/277c03d2-5039-4ac4-8e33-bcfbfe0f0428-1679330509.743254.256x256.jpg" group-title="Featured", Nosey
+https://freecast.telos.indicue.com/stream.m3u8?aid=6214&m=aHR0cHM6Ly9ub3NleWludGwtc2VsZWN0dHYuYW1hZ2kudHYvcGxheWxpc3QubTN1OA==&format=freecast_amagi&session=020
+#EXTINF:-1 tvg-id="sc-414730" tvg-name="sc-414730" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/cb0184b5-a040-4ae7-a0a5-9a0e34a70789-1725469024.77614.256x256.png" group-title="Featured", Western Bound
+https://freecast.telos.indicue.com/stream.m3u8?aid=6388&m=aHR0cHM6Ly9pbWUtY3ctZnJlZWNhc3Qub3R0ZXJhdmlzaW9uLmNvbS9pbWUvY3cvY3cubTN1OA==
+#EXTINF:-1 tvg-id="cms-heartland" tvg-name="cms-heartland" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/30d55ea3-078c-47c3-84a2-c2ab80c0dc49-1772222087.283743.256x256.png" group-title="Featured", Heartland
+https://freecast.telos.indicue.com/stream.m3u8?troute=139&m=aHR0cHM6Ly9mcmVlY2FzdC1sdWtlbnR2bGl2ZS52Z2Nkbi5uZXQvb3V0L3YxL2VmNGM0NWFmMjk5YzQ2YWFhYmMzZjg3MTNmOTJmMTYzL2luZGV4Lm0zdTg=
+#EXTINF:-1 tvg-id="sc-384757" tvg-name="sc-384757" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/71c524a8-0fb8-4120-8d1d-bf10e6cd3bf3-1705506024.175567.256x256.png" group-title="Featured", Law & Crime
+https://freecast.telos.indicue.com/stream.m3u8?aid=6379&m=aHR0cHM6Ly9jZG4ubGF3YW5kY3JpbWUubmV0LzI0Ny9wbGF5bGlzdF9zY3RlLm0zdTg=
+#EXTINF:-1 tvg-id="cms-crime-justice" tvg-name="cms-crime-justice" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/4d25e7b6-ca5f-4b7b-876f-6bb995d113c9-1677702874.586406.256x256.jpg" group-title="Featured", Crime & Justice
+https://freecast.telos.indicue.com/stream.m3u8?aid=6346&m=aHR0cHM6Ly9saW5lYXItNDc0LmZyZXF1ZW5jeS5zdHJlYW0vZGlzdC9mcmVlY2FzdC80NzQvaGxzL21hc3Rlci9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="cms-real-disaster-channel" tvg-name="cms-real-disaster-channel" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/56cba6b8-80c6-487c-9689-46fe87c04730-1677703766.001491.256x256.jpg" group-title="Featured", Real Disaster Channel
+https://freecast.telos.indicue.com/stream.m3u8?aid=6423&m=aHR0cHM6Ly9saW5lYXItNDc1LmZyZXF1ZW5jeS5zdHJlYW0vZGlzdC9nbGV3ZWR0di80NzUvaGxzL21hc3Rlci9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="sc-400478" tvg-name="sc-400478" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/86f405a0-eab5-4037-86ee-b3451b8954d6-1777919005.272941.256x256.jpg" group-title="Featured", Gusto TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustous-selecttv/playlist.m3u8?language=En&content_network=Gusto+TV
+#EXTINF:-1 tvg-id="cms-craftsytv" tvg-name="cms-craftsytv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/09a3d6f9-2beb-48ee-a620-20a56cc3de5e-1679685892.850194.256x256.jpg" group-title="Featured", CraftsyTV
+https://freecast.telos.indicue.com/stream.m3u8?troute=147&m=aHR0cHM6Ly9saW5lYXItNDkyLmZyZXF1ZW5jeS5zdHJlYW0vZGlzdC9mcmVlY2FzdC80OTIvaGxzL21hc3Rlci9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="cms-cigar-tv" tvg-name="cms-cigar-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/f8a4f51f-0ef7-4938-8c84-efe0c4a38d6c-1708712007.712146.256x256.jpg" group-title="Featured", Cigar TV
+https://amg30862-amg30862c1-amgplt0065.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg30862-amg30862c1-amgplt0065/playlist.m3u8
+#EXTINF:-1 tvg-id="sc-384764" tvg-name="sc-384764" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/af7b9fcb-353e-4976-b192-b0a01ee61bc8-1687884425.430478.256x256.png" group-title="Featured", QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/master.m3u8
+#EXTINF:-1 tvg-id="sc-407210" tvg-name="sc-407210" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/7be28128-0dff-4260-b8c9-a18f4b342a6a-1687187838.901686.256x256.jpg" group-title="News", Local Now
+https://3d09ae6be3ae489c9c7886da2331f0a5.mediatailor.us-east-1.amazonaws.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DIST_LocalNow_SelectTV/playlist.m3u8?ads.cdn_prefix=Global&ads.origin_id=Global&ads.cust_devicename=FreeCast&ads.channel_id=Global&ads.channel_name=DIST-Local_Now_Global&ads.channel_genre=Local&ads.content_provider=Global
+#EXTINF:-1 tvg-id="cms-weny" tvg-name="cms-weny" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/33f6c3c8-9393-483a-a29a-da834650a025-1753799901.973297.256x256.png" group-title="News", WENY
+https://freecast.telos.indicue.com/stream.m3u8?aid=6389&m=aHR0cHM6Ly9kYWkyLXBsYXlsaXN0c2VydmVyLmF3cy5zeW5jYmFrLmNvbS9tMi9sb2NhbG9uLzlhZWEzYzYyMGYzMzM4ZDc0OTE1N2YwYzc1YTEyNzQxMzA1ZjUxOWZlMzFjNmI1MTQ2MDRhYjA5YmY5MDczZmYxNDBmZDU5NDI5MTkvbWFzdGVyLm0zdTg=
+#EXTINF:-1 tvg-id="cms-erie-news-now" tvg-name="cms-erie-news-now" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/6add5a0a-a711-4037-aa6e-9ffb5039bb67-1753800649.543666.256x256.png" group-title="News", Erie News Now
+https://freecast.telos.indicue.com/stream.m3u8?aid=6363&m=aHR0cHM6Ly9kYWkyLXBsYXlsaXN0c2VydmVyLmF3cy5zeW5jYmFrLmNvbS9tMi9sb2NhbG9uLzU3YTczNTgyMmY0ZmVmMzk2MTBkMzg5ZTYwYTk3ODVhNDkyOWQ3ZmU5Y2QyNGM1NDA1MTdjODIxYjdmNjlhNWQ1ZjBiYzcxYjc2MDkvbWFzdGVyLm0zdTg=
+#EXTINF:-1 tvg-id="cms-ticker-news" tvg-name="cms-ticker-news" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/7c31814b-03d5-42d6-bbe9-16268b1eebd4-1704736285.126016.256x256.png" group-title="News", Ticker News
+https://freecast.telos.indicue.com/stream.m3u8?aid=6403&m=aHR0cHM6Ly9saXZlLWhscy03YWd5LmxpdmVwdXNoLmlvL2xpdmVfYWJyX2Nkbi9uc2l0V0FsMXBUWnR3Y2EvZW1ubVpiS1pjTzhSZndKUi9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="cms-usa-today" tvg-name="cms-usa-today" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/872b8fe3-84b0-4bc4-8ccf-36777d7a4902-1760037820.887914.256x256.png" group-title="News", USA Today
+https://amg00457-amg00457c1-freecast-us-9716.playouts.now.amagi.tv/playlist/amg00457-videoelephant-usatodaynews-freecastus/playlist.m3u8
+#EXTINF:-1 tvg-id="sc-384751" tvg-name="sc-384751" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/509ce5e0-8a4a-4afe-bb40-584fd8f6b194-1737059917.290847.256x256.png" group-title="News", OAN Plus
+https://freecast.telos.indicue.com/stream.m3u8?aid=6407&m=aHR0cHM6Ly9hLWNkbi5oZXJyaW5nbmV0d29yay5jb20vYWZmaWxpYXRlL29hbmVfNzIwcC9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="cms-real-americas-voice" tvg-name="cms-real-americas-voice" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/26ec748b-fc29-4209-94f8-035de35624e7-1677148173.812389.256x256.jpg" group-title="News", Real America’s Voice
+https://freecast.telos.indicue.com/stream.m3u8?aid=6422&m=aHR0cHM6Ly9zdHJlYW0ud2VhdGhlcm5hdGlvbnR2LmNvbS9BVlNlbGVjdFRWL0FWU2VsZWN0VFYubTN1OA==
+#EXTINF:-1 tvg-id="sc-400557" tvg-name="sc-400557" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/e9b9bc98-2f30-41ca-a4bb-e9f0473c62d1-1677063586.431962.256x256.jpg" group-title="News", CBN News
+https://amg00094-cbn-amg00094c1-freecast-us-8340.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="sc-388924" tvg-name="sc-388924" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/5102b606-80a9-4d5d-850a-e5cdc347f1d7-1775500399.080688.256x256.png" group-title="News", DeFiance News
+https://amg01529-amg01529c3-amgplt0065.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg01529-amg01529c3-amgplt0065/playlist.m3u8
+#EXTINF:-1 tvg-id="sc-384808" tvg-name="sc-384808" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/99e071cd-809d-4eaa-9578-faafc4f9421a-1686254965.039699.256x256.png" group-title="News", Biz TV
+https://freecast.telos.indicue.com/stream.m3u8?aid=6298&m=aHR0cHM6Ly90aGVnYXRld2F5LmFwcC9CaXpjZG4vQml6VFYtQUJSL3BsYXlsaXN0Lm0zdTg=
+#EXTINF:-1 tvg-id="cms-cgtn-global-biz" tvg-name="cms-cgtn-global-biz" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/1e942f45-754b-45bc-afdc-684fd547bea9-1770842925.064951.256x256.png" group-title="News", CGTN Global Biz
+https://freecast.telos.indicue.com/stream.m3u8?aid=6722&m=aHR0cHM6Ly9mYXN0bGl2ZS5jY3R2cGx1cy5jb20vb3V0L3YxLzJiM2Q4YTBjODA1ZDQzN2Y5ZGM4NWI3NjRjMmFjNTk5L2luZGV4Lm0zdTg=
+#EXTINF:-1 tvg-id="cms-ntd-news" tvg-name="cms-ntd-news" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/f44bd664-e801-4914-bfd0-53797cb78c06-1775504488.242943.256x256.png" group-title="News", NTD News
+https://amg17596-amg17596c1-amgplt0065.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg17596-amg17596c1-amgplt0065/playlist.m3u8
+#EXTINF:-1 tvg-id="CMS-willow-sports" tvg-name="CMS-willow-sports" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/c1a2a6b1-e467-4431-8b7d-7b619cb45bfd-1751039997.175531.256x256.png" group-title="Sports", Willow Sports
+https://amg01269-amg01269c1-freecast-us-5396.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-freecastus/playlist.m3u8
+#EXTINF:-1 tvg-id="sc-415420" tvg-name="sc-415420" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/c5319a07-9d69-49e5-8d48-4ce020906dfa-1677063200.596659.256x256.png" group-title="Sports", BLEAV Football
+https://freecast.telos.indicue.com/stream.m3u8?aid=6299&m=aHR0cHM6Ly9saW5lYXItNDkzLmZyZXF1ZW5jeS5zdHJlYW0vZGlzdC9mcmVlY2FzdC80OTMvaGxzL21hc3Rlci9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="cms-sports-first-tv" tvg-name="cms-sports-first-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/73fd1bdd-54ea-49e3-9ad1-c82312c672b6-1774381655.640368.256x256.png" group-title="Sports", Sports First TV
+https://freecast.telos.indicue.com/stream.m3u8?aid=6938&m=aHR0cHM6Ly9kbzV3NzRjc2hrbm1xLmNsb3VkZnJvbnQubmV0L3NjaGVkdWxlci9zY2hlZHVsZU1hc3Rlci80NDIubTN1OA==
+#EXTINF:-1 tvg-id="cms-teton-ridge-rodeo" tvg-name="cms-teton-ridge-rodeo" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/f6b5808c-524e-4210-ac3d-6a1f837d2c06-1773670061.675331.256x256.png" group-title="Sports", Cowboy+ Sports
+https://amg17292-amg17292c1-freecast-us-5587.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-freecastus/playlist.m3u8
+#EXTINF:-1 tvg-id="sc-384844" tvg-name="sc-384844" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/1b176e94-b8fa-4581-8dd7-d83800aa744b-1678857192.1441.256x256.jpg" group-title="Sports", Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SelectTV/121.m3u8
+#EXTINF:-1 tvg-id="sc-400565" tvg-name="sc-400565" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/9025a1b4-17b9-48eb-8f3d-0f739b7ec80b-1696879373.676421.256x256.png" group-title="Sports", Swerve Combat
+https://freecast.telos.indicue.com/stream.m3u8?troute=136&m=aHR0cHM6Ly9saW5lYXItMjUzLmZyZXF1ZW5jeS5zdHJlYW0vZGlzdC9mcmVlY2FzdC8yNTMvaGxzL21hc3Rlci9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="cms-united-fight-alliance" tvg-name="cms-united-fight-alliance" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/3f9240a7-f1c3-440c-8671-e137b456786b-1721924246.901404.256x256.jpg" group-title="Sports", United Fight Alliance
+https://87c9d6408867439b8b70e32642d80cc5.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SelectTV_UnitedFightAlliance/playlist.m3u8?ads.wurl_channel=1569&ads.wurl_name=UnitedFightAlliance&ads.coppa=0&ads.custom=%7BCUSTOM%7D&ads.content_dist_id=%7BCONTENT_DIST_NAME%7D&ads.distributor_id=%7BDISTRIBUTOR_ID%7D
+#EXTINF:-1 tvg-id="cms-the-grappling-network" tvg-name="cms-the-grappling-network" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/c03dc740-03b9-473b-a0ad-d8c7bc4c9210-1678922342.768143.256x256.jpg" group-title="Sports", The Grappling Network
+https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TheGrapplingNetwork-SelectTV/236.m3u8
+#EXTINF:-1 tvg-id="sc-415575" tvg-name="sc-415575" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/fcaa1788-1130-410c-a171-45adc75a2838-1745002843.298526.256x256.png" group-title="Sports", RACER Select
+https://amg00378-mavtv-amg00378c4-freecast-us-1331.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-mavtvselectdomestic-freecastus/playlist.m3u8
+#EXTINF:-1 tvg-id="sc-400328" tvg-name="sc-400328" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/77902610-3f36-43a0-bc60-a8437687b3a2-1687889904.406327.256x256.jpg" group-title="Sports", NHRA TV
+https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partner=selecttv
+#EXTINF:-1 tvg-id="sc-402998" tvg-name="sc-402998" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/65779425-b973-4b47-a25b-6303f837e730-1726588466.306647.256x256.png" group-title="Sports", PowerSports World
+https://freecast.telos.indicue.com/stream.m3u8?troute=131&m=aHR0cHM6Ly9iYmItcHdyc3AtZnJlZWNhc3Qub3R0ZXJhdmlzaW9uLmNvbS9iYmIvcHdyc3AvcHdyc3AubTN1OA==
+#EXTINF:-1 tvg-id="cms-revn" tvg-name="cms-revn" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/d4474bb7-791f-414b-b739-60575959b3c6-1772222089.793518.256x256.png" group-title="Sports", REV’N
+https://freecast.telos.indicue.com/stream.m3u8?troute=141&m=aHR0cHM6Ly9mcmVlY2FzdC1sdWtlbnR2bGl2ZS52Z2Nkbi5uZXQvb3V0L3YxL2E0ZjMxZjI5N2ZjNTQ0MGY4MTRiZDJjZmZkNzdlNjg5L2luZGV4Lm0zdTg=
+#EXTINF:-1 tvg-id="cms-chrono-tv" tvg-name="cms-chrono-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/5df2fce2-ba69-4606-86fd-a7e6160ba6d2-1689107048.310253.256x256.png" group-title="Sports", Chrono TV
+https://streams2.sofast.tv/ptnr-Freecast/title-CHRONO-TV-ENG_Freecast/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5773255d-8d37-4d04-bc83-a1d2df571fe1/manifest.m3u8?ads.channel_name=chrono-tv-eng
+#EXTINF:-1 tvg-id="cms-nitro-tv" tvg-name="cms-nitro-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/a25fd9b0-78e2-4f50-9e26-9be83ac49694-1689107085.008837.256x256.png" group-title="Sports", Nitro TV
+https://streams2.sofast.tv/ptnr-freecast/title-NITRO-TV-ENG_Freecast/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/83722213-f61f-41b0-982a-a818de5404c4/manifest.m3u8?ads.channel_name=nitro-tv-eng
+#EXTINF:-1 tvg-id="cms-automotions" tvg-name="cms-automotions" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/9f09ea94-ea02-4baf-85f7-7c1fe02269b8-1689107009.376688.256x256.png" group-title="Sports", Automotion
+https://streams2.sofast.tv/ptnr-freecast/genre-Automotive/lang-English/ctgr-Entertainment/title-AUTOMOTIONS_freecast/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/75559dca-6b95-4680-92b3-23c14b933db0/manifest.m3u8?ads.channel_name=automotions
+#EXTINF:-1 tvg-id="cms-rpm" tvg-name="cms-rpm" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/60e5faef-7a87-4b36-83c9-c36150c3a686-1771957497.56295.256x256.jpg" group-title="Sports", RPM
+https://bpk-livecdn.premiumfree.tv/afxpstr/RPM/index.m3u8?bpkio_serviceid=cff02a74da64d145a4cf5ba1de747abf
+#EXTINF:-1 tvg-id="sc-399829" tvg-name="sc-399829" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/d5f6b031-f5ba-4759-8a27-8ee239e236ed-1677149664.13761.256x256.jpg" group-title="Sports", Wired2Fish TV
+https://freecast.telos.indicue.com/stream.m3u8?aid=6621&m=aHR0cHM6Ly9saW5lYXItODAuZnJlcXVlbmN5LnN0cmVhbS9kaXN0L2ZyZWVjYXN0LzgwL2hscy9tYXN0ZXIvcGxheWxpc3QubTN1OA==
+#EXTINF:-1 tvg-id="cms-sport-fishing" tvg-name="cms-sport-fishing" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/25057cb4-1d33-46d9-a24d-c68c33d57463-1689107231.318601.256x256.png" group-title="Sports", Sport Fishing
+https://streams2.sofast.tv/ptnr-freecast/title-SPORT-FISHING-TV-ENG_Freecast/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/81f27278-8c56-44ef-a3ae-2cdb547dd931/manifest.m3u8?ads.channel_name=sport-fishing-tv-eng
+#EXTINF:-1 tvg-id="cms-nautical-channel" tvg-name="cms-nautical-channel" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/f584b802-83eb-4db1-b4f3-3aef2ac7cae4-1712245746.882862.256x256.png" group-title="Sports", Nautical Channel
+https://freecast.telos.indicue.com/stream.m3u8?aid=6400&m=aHR0cHM6Ly9zdHJlYW1zMi5zb2Zhc3QudHYvcHRuci1mcmVlY2FzdC90aXRsZS1OYXV0aWNhbF9UVi92Z2xpdmUtc2stMjMxMTk4L2luZGV4Lm0zdTg=
+#EXTINF:-1 tvg-id="cms-h2o-tv" tvg-name="cms-h2o-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/588881e0-b547-4865-a07d-04ffaa6dfcfe-1722967209.732101.256x256.png" group-title="Sports", H2O TV
+https://linear-738.frequency.stream/dist/freecast/738/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-surfing-plus" tvg-name="cms-surfing-plus" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/52b5b367-367c-4281-bd8b-c1b74df71095-1723058324.621025.256x256.png" group-title="Sports", Surfing Plus
+https://d3h34uiptgmkww.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freecast-MuxIP-SurfingPlus/444.m3u8
+#EXTINF:-1 tvg-id="cms-sportoutdooortv" tvg-name="cms-sportoutdooortv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/892f6b5a-3eed-43e3-8041-695906a3a504-1753888684.364765.256x256.png" group-title="Sports", SportOutdoor.TV
+https://db924b640a714114aa2be1aa9aa28c76.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SelectTV_SportOutdoorTV/playlist.m3u8?ads.wurl_channel=2023&ads.wurl_name=SportOutdoor.TV&ads.coppa=0
+#EXTINF:-1 tvg-id="cms-horse-tv" tvg-name="cms-horse-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/e44b0757-4419-4d81-a242-14550fb32a68-1712245860.939386.256x256.png" group-title="Sports", Horse TV
+https://freecast.telos.indicue.com/stream.m3u8?aid=6366&m=aHR0cHM6Ly9zdHJlYW1zMi5zb2Zhc3QudHYvcHRuci1mcmVlY2FzdC90aXRsZS1Ib3JzZV9UVi92Z2xpdmUtc2stNDY5MjM5L2luZGV4Lm0zdTg=
+#EXTINF:-1 tvg-id="sc-384842" tvg-name="sc-384842" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/16590c87-2b09-467e-8ade-e859190f07d5-1687532724.746541.256x256.png" group-title="Sports", FTF Sports
+https://freecast.telos.indicue.com/stream.m3u8?troute=156&m=aHR0cHM6Ly8xNjIyODYyMjA3LnJzYy5jZG43Ny5vcmcvRlRGL0ZURl9TQ1RFX0IubTN1OA==
+#EXTINF:-1 tvg-id="sc-400330" tvg-name="sc-400330" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/ca59fcc0-83e1-4c77-86a8-b32f5625c175-1677064294.835392.256x256.jpg" group-title="Sports", CampusLore Sports
+https://freecast.telos.indicue.com/stream.m3u8?aid=6573&m=aHR0cHM6Ly9saW5lYXItMjM1LmZyZXF1ZW5jeS5zdHJlYW0vZGlzdC9mcmVlY2FzdC8yMzUvaGxzL21hc3Rlci9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="sc-400540" tvg-name="sc-400540" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/c111a4aa-38eb-4cbd-840a-7dc52d05fb4b-1677063796.788134.256x256.jpg" group-title="Sports", Billiard TV
+https://freecast.telos.indicue.com/stream.m3u8?troute=146&m=aHR0cHM6Ly9iYmItYmlsbGktZnJlZWNhc3Qub3R0ZXJhdmlzaW9uLmNvbS9iYmIvYmlsbGkvYmlsbGkubTN1OA==
+#EXTINF:-1 tvg-id="cms-kozoom-tv" tvg-name="cms-kozoom-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/9438011f-9622-496f-a270-45f511f84d9d-1689107122.289813.256x256.png" group-title="Sports", Kozoom TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/freecast3_sofast/ae60ea81-15c8-4a4a-97e3-fa45c64431d5_0_HLS/manifest.m3u8?channel_name=kozoomtv
+#EXTINF:-1 tvg-id="sc-384843" tvg-name="sc-384843" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/f15f0ce5-2596-4488-ac8d-dc0973957645-1683909984.573167.256x256.png" group-title="Sports", LacrosseTV
+https://freecast.telos.indicue.com/stream.m3u8?aid=6375&m=aHR0cHM6Ly8xODQwNzY5ODYyLnJzYy5jZG43Ny5vcmcvRlRGL0xTTi5tM3U4
+#EXTINF:-1 tvg-id="cms-perfect-game-tv" tvg-name="cms-perfect-game-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/e611b7ac-5e67-49e1-81b6-f5c4abf72774-1691527437.415374.256x256.png" group-title="Sports", Perfect Game TV
+https://freecast.telos.indicue.com/stream.m3u8?aid=6412&m=aHR0cHM6Ly9mcmVlY2FzdC5wZXJmZWN0Z2FtZS50di9zcGVlZC9icm9hZGNhc3QvMTUvZGVza3RvcC1wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="cms-pro-league-network" tvg-name="cms-pro-league-network" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/025cb049-154d-43c5-9449-3958bcd3308d-1774903473.177148.256x256.png" group-title="Sports", Pro League Network
+https://amg26564-amg26564c1-amgplt0065.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg26564-amg26564c1-amgplt0065/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-trace-sport-stars" tvg-name="cms-trace-sport-stars" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/ee8d63b3-3d82-4fb1-b6f4-a93489bee098.256x256.jpg" group-title="Sports", TRACE Sport Stars
+https://freecast.telos.indicue.com/stream.m3u8?aid=6396&m=aHR0cHM6Ly9kMTZ5cHRwYml1bGR0dC5jbG91ZGZyb250Lm5ldC84Y2YwMjFmZDI2MzI0Y2IyYmVhZWE3NjViYzc4ZWIwZC9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="cms-sports-connect" tvg-name="cms-sports-connect" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/43da2942-1d4b-4c7d-b2b9-9ad0ba13a362-1771957535.462501.256x256.jpg" group-title="Sports", Sports Connect
+https://bpk-livecdn.premiumfree.tv/afxpstr/SportsConnect/index.m3u8?bpkio_serviceid=cff02a74da64d145c1706ade5a30e109
+#EXTINF:-1 tvg-id="sc-390643" tvg-name="sc-390643" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/f98d3c02-b7e5-409c-a482-3d1a8ad715d9-1683823611.932796.256x256.png" group-title="TV", ElectricNow
+https://amg01705-amg01705c1-amgplt0065.playout.now3.amagi.tv/playlist/amg01705-amg01705c1-amgplt0065/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-property-reno" tvg-name="cms-property-reno" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/133c8a65-37aa-4ee1-b8e5-60f2f1ab2d8f-1677703644.00479.256x256.jpg" group-title="TV", Property & Reno
+https://freecast.telos.indicue.com/stream.m3u8?aid=6419&m=aHR0cHM6Ly9saW5lYXItNDc2LmZyZXF1ZW5jeS5zdHJlYW0vZGlzdC9mcmVlY2FzdC80NzYvaGxzL21hc3Rlci9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="cms-whoa-that-was-wild" tvg-name="cms-whoa-that-was-wild" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/9227d230-6b99-47e2-aafa-9ebb58e05e15-1690836841.774996.256x256.png" group-title="TV", Whoa! That Was Wild
+https://83d77f005f3a4932a4397030d7a9c3d5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SelectTV_WhoaThatsWild/playlist.m3u8?ads.wurl_channel=1540&ads.wurl_name=WhoaThatsWild&ads.coppa=0
+#EXTINF:-1 tvg-id="sc-414728" tvg-name="sc-414728" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/6bcab386-d37a-4c4c-8cb6-0a63bef9b034.256x256.jpg" group-title="TV", WITZ-Comedy TV
+https://ac164c77c04541d8ad93f98ff3670afd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SelectTV_WITZComedyTV-1/playlist.m3u8?ads.wurl_channel=1197&ads.wurl_name=WITZComedyTV
+#EXTINF:-1 tvg-id="cms-novo-comedy" tvg-name="cms-novo-comedy" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/6d32df39-ae38-44e1-96d5-6140d0ba7453-1771957471.444763.256x256.jpg" group-title="TV", Novo Comedy
+https://bpk-livecdn.premiumfree.tv/afxpstr/NovoPranks/index.m3u8?bpkio_serviceid=cff02a74da64d14583864627bd74f799
+#EXTINF:-1 tvg-id="sc-384758" tvg-name="sc-384758" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/e9d60b4b-adeb-4604-806d-653ddfb175ae-1687453893.474664.256x256.png" group-title="TV", Law & Crime Rewind
+https://freecast.telos.indicue.com/stream.m3u8?aid=6380&m=aHR0cHM6Ly9jZG4ubGF3YW5kY3JpbWUubmV0L3Jld2luZC9wbGF5bGlzdF9zY3RlLm0zdTg=
+#EXTINF:-1 tvg-id="cms-real-crime-uncovered" tvg-name="cms-real-crime-uncovered" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/68cc9c7a-e051-4ff1-98f1-3f26cb3c1b37-1722959667.556854.256x256.png" group-title="TV", Real Crime Uncovered
+https://0609286d36e6450b8d2100d125fca632.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SelectTV_CrimeFiles/playlist.m3u8?ads.wurl_channel=1726&ads.wurl_name=CrimeFiles&ads.coppa=0&ads.custom=%7BCUSTOM%7D&ads.content_dist_id=%7BCONTENT_DIST_NAME%7D&ads.distributor_id=%7BDISTRIBUTOR_ID%7D
+#EXTINF:-1 tvg-id="cms-crime-and-evidence" tvg-name="cms-crime-and-evidence" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/1c094c9b-8710-4440-9c09-037d08e9e7b2-1771957723.339236.256x256.jpg" group-title="TV", Crime & Evidence
+https://bpk-livecdn.premiumfree.tv/afxpstr/CrimeandEvidence/index.m3u8?bpkio_serviceid=cff02a74da64d145a7046476e17d39c4
+#EXTINF:-1 tvg-id="cms-ace-tv" tvg-name="cms-ace-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/f27b78bf-dc4e-44fb-9ed1-8599a82676d2-1677008713.927725.256x256.jpg" group-title="TV", Ace TV
+https://freecast.telos.indicue.com/stream.m3u8?aid=6922&m=aHR0cHM6Ly9jLnN0cmVhbWhvc3Rlci5jb20vbGluay9obHMvVzVzM2ZTL2lRZ2hYR1pzMDNRL2lxZzl3cHMwbTF4XzUvcGxheWxpc3QubTN1OA==
+#EXTINF:-1 tvg-id="cms-retro-tv" tvg-name="cms-retro-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/ecaa7537-3abe-4d4e-9594-dde0cb260e93-1772222091.813827.256x256.png" group-title="TV", Retro TV
+https://freecast.telos.indicue.com/stream.m3u8?troute=140&m=aHR0cHM6Ly9mcmVlY2FzdC1sdWtlbnR2bGl2ZS52Z2Nkbi5uZXQvb3V0L3YxLzY2NWU5ZjkxNjE0YjQzYjBhMDY1NGU5MzE3ZjFkOWYzL2luZGV4Lm0zdTg=
+#EXTINF:-1 tvg-id="sc-390303" tvg-name="sc-390303" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/f93edd63-12bf-41ab-804e-5ecddea3a08d-1680544912.427463.256x256.jpg" group-title="TV", NOST
+https://api-ott.watchnost.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=freecast
+#EXTINF:-1 tvg-id="cms-the-loop" tvg-name="cms-the-loop" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/8b24f0e7-52c2-4931-a848-1f2deea2ac17-1767735552.930318.256x256.png" group-title="TV", The Loop
+https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8
+#EXTINF:-1 tvg-id="cms-binge-tv" tvg-name="cms-binge-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/1cef000a-abb0-4d29-9011-e0e4519e22ce-1773859464.420999.256x256.png" group-title="TV", Binge TV
+https://freecast.telos.indicue.com/stream.m3u8?aid=6966&m=aHR0cHM6Ly92aWRlb3N0YWNrMS5jZG5zdHJlYW0xLmNvbToxOTM2L2JpbmdlLXR2L2JpbmdlLXR2L3BsYXlsaXN0Lm0zdTg=
+#EXTINF:-1 tvg-id="sc-388654" tvg-name="sc-388654" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/92163488-6fc4-40ee-8560-8f305f5a7164-1684437677.255743.256x256.png" group-title="TV", iCowboy TV
+https://freecast.telos.indicue.com/stream.m3u8?troute=160&m=aHR0cHM6Ly93aXNlY2RuYi53aXNlcGxheW91dC5jb20vbGl2ZS9jb3dib3l0di9tYXN0ZXIubTN1OA==
+#EXTINF:-1 tvg-id="cms-swaagtvonpoynt" tvg-name="cms-swaagtvonpoynt" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/700f3760-b04e-48c0-ab94-8b8efc31913c-1769189574.394964.256x256.png" group-title="TV", SWAAGTVonPOYNT
+https://freecast.telos.indicue.com/stream.m3u8?aid=6368&m=aHR0cHM6Ly9zd2FhZ3R2Lndpc2VwbGF5b3V0LmNvbTo1MTU1L2xpdmUvU3dhYWcvbWFzdGVyLm0zdTg=&cuePoint=1
+#EXTINF:-1 tvg-id="cms-the-shade-room" tvg-name="cms-the-shade-room" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/f436a262-23e9-477d-b555-0796cf08b988-1768922951.808582.256x256.png" group-title="TV", The Shade Room
+https://api-ott.theshaderoom.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=15&partner=freecast
+#EXTINF:-1 tvg-id="cms-thegrio" tvg-name="cms-thegrio" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/08e7b6e0-99e7-4bd3-a566-7ef2d2b634de-1679948018.801085.256x256.png" group-title="TV", TheGrio
+https://blacknewschannel-freecast.amagi.tv/hls/amagi_hls_data_blacknews-blacknewschannel-freecast/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-black-vision-tv" tvg-name="cms-black-vision-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/3779729e-007a-4475-aa49-e900f53c12a8-1771618094.813513.256x256.png" group-title="TV", Black Vision TV
+https://freecast.telos.indicue.com/stream.m3u8?aid=6936&m=aHR0cHM6Ly9jLnN0cmVhbWhvc3Rlci5jb20vbGluay9obHMvV25zM0NGL2kzRml5S1ZzMGJvL21hak9UNXNYakhuXzUvcGxheWxpc3QubTN1OA==
+#EXTINF:-1 tvg-id="sc-384823" tvg-name="sc-384823" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/8e2cebe6-9b57-4b39-8b9b-674b9eed48fd-1677064397.53763.256x256.jpg" group-title="TV", CJC
+https://freecast.telos.indicue.com/stream.m3u8?aid=6304&m=aHR0cHM6Ly9hcHAudmlsb3VkLnR2L2hscy9jaGFubmVsLzU1ZTA2NjYxZGEzNTlhYjUxYmJiMmQ1NjM1MjFmNGIyLm0zdTg=
+#EXTINF:-1 tvg-id="sc-384828" tvg-name="sc-384828" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/70257013-ef36-43fa-9c2f-0f5fa3026bd2-1690549606.414665.256x256.png" group-title="TV", TheGRID
+https://freecast.telos.indicue.com/stream.m3u8?aid=6404&m=aHR0cHM6Ly9hcHAudmlsb3VkLnR2L2hscy9jaGFubmVsL2EyNzZkZmVkNzc3ZjNkYzY4MWE2MGRlYzI3MmI2YzRhLm0zdTg=
+#EXTINF:-1 tvg-id="cms-black-enterprise-streaming-network" tvg-name="cms-black-enterprise-streaming-network" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/6f9e299f-c036-45b0-82b8-36d618422df0-1774356192.418871.256x256.png" group-title="TV", Black Enterprise Streaming Network
+https://494ff77043df4001b52972de02fccb0c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SelectTV_BlackEnterpriseStreamingNetwork/playlist.m3u8?ads.wurl_channel=2098&ads.wurl_name=BlackEnterpriseStreamingNetwork&ads.coppa=0
+#EXTINF:-1 tvg-id="cms-feva-tv" tvg-name="cms-feva-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/1115a10e-5749-4ab1-b336-8a572fb474e7-1712241046.414931.256x256.png" group-title="TV", FEVA TV
+https://d1ofvym3l4xup4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freecast-MuxIP-FEVATV/416.m3u8
+#EXTINF:-1 tvg-id="cms-afrolandtv" tvg-name="cms-afrolandtv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/0b94097d-6e94-4257-9f6a-d5d1529df0d3-1679948845.033907.256x256.png" group-title="TV", AfroLandTV
+https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=816&partner=selecttv
+#EXTINF:-1 tvg-id="sc-390213" tvg-name="sc-390213" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/065e3d74-d227-4ab8-be77-fc88428cf07c-1677148476.835397.256x256.jpg" group-title="TV", SKWAD
+https://api-ott.skwadplay.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=263537&partner=selecttv
+#EXTINF:-1 tvg-id="cms-jul-tv" tvg-name="cms-jul-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/489f8a40-e606-4dbc-b7e5-e65eba843c91-1747318583.453642.256x256.png" group-title="TV", JUL TV
+https://rpn3.bozztv.com/playoutmulti6/outputjultv/outputjultv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="sc-388650" tvg-name="sc-388650" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/07a67f73-161b-43b4-9691-134e394a94ae-1684420703.526456.256x256.png" group-title="TV", iHolyfield TV
+https://freecast.telos.indicue.com/stream.m3u8?troute=149&m=aHR0cHM6Ly93aXNlY2RuYi53aXNlcGxheW91dC5jb20vbGl2ZS9pSG9seWZpZWxkVFYvbWFzdGVyLm0zdTg=
+#EXTINF:-1 tvg-id="sc-388653" tvg-name="sc-388653" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/7114c2a0-e25a-4af1-8a21-4a8114597ee4-1684420846.653056.256x256.png" group-title="TV", Real COMFY TV2
+https://freecast.telos.indicue.com/stream.m3u8?troute=132&m=aHR0cHM6Ly93aXNlY2RuYi53aXNlcGxheW91dC5jb20vbGl2ZS9jb21meXR2L21hc3Rlci5tM3U4
+#EXTINF:-1 tvg-id="sc-388649" tvg-name="sc-388649" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/1ac3a1c1-027f-4d1d-bde5-f70aa3a39b9a-1684421054.022002.256x256.png" group-title="TV", iSHE TV2
+https://freecast.telos.indicue.com/stream.m3u8?troute=152&m=aHR0cHM6Ly93aXNlY2RuYi53aXNlcGxheW91dC5jb20vbGl2ZS9pc2hldHYvbWFzdGVyLm0zdTg=
+#EXTINF:-1 tvg-id="sc-399835" tvg-name="sc-399835" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/1b997ee2-b486-4e17-968b-3d57124c87ff-1677149589.077389.256x256.jpg" group-title="TV", True History
+https://freecast.telos.indicue.com/stream.m3u8?aid=6390&m=aHR0cHM6Ly9saW5lYXItMTg4LmZyZXF1ZW5jeS5zdHJlYW0vZGlzdC9mcmVlY2FzdC8xODgvaGxzL21hc3Rlci9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="sc-402997" tvg-name="sc-402997" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/6a0b10be-4884-488d-a43e-3798dc03414e-1708523988.429756.256x256.png" group-title="TV", Bark TV
+https://api-ott.tripleb.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=851&partner=freecast
+#EXTINF:-1 tvg-id="cms-earth-day-365" tvg-name="cms-earth-day-365" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/43c0100e-ae59-42ce-944c-4d1a0c031840-1722972874.631451.256x256.png" group-title="TV", Earth Day 365
+https://lotus.stingray.com/ads/earthday-earth001-montreal/freecast/master.m3u8
+#EXTINF:-1 tvg-id="cms-beyond-paranormal" tvg-name="cms-beyond-paranormal" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/b380b3ab-8740-45ea-bcee-8eb676a616ed-1722025332.851653.256x256.png" group-title="TV", Beyond Paranormal
+https://39cde7a6ea6448cd80eba6c2a9585313.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SelectTV_BeyondParanormal/playlist.m3u8?ads.wurl_channel=1549&ads.wurl_name=BeyondParanormal&ads.coppa=0&ads.custom=%7BCUSTOM%7D&ads.content_dist_id=%7BCONTENT_DIST_NAME%7D&ads.distributor_id=%7BDISTRIBUTOR_ID%7D
+#EXTINF:-1 tvg-id="sc-388633" tvg-name="sc-388633" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/feb47965-f63c-4b43-9df1-55dc495378e4-1684421911.431425.256x256.png" group-title="TV", iSciFi TV2
+https://freecast.telos.indicue.com/stream.m3u8?troute=151&m=aHR0cHM6Ly93aXNlY2RuYi53aXNlcGxheW91dC5jb20vbGl2ZS9pU2NpZmlhbmRUaHJpbGxlcnpUVi9tYXN0ZXIubTN1OA==
+#EXTINF:-1 tvg-id="sc-400554" tvg-name="sc-400554" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/1752ef53-cef5-4228-bf0b-0b2e25bfb063-1677067573.345803.256x256.png" group-title="TV", Loupe
+https://lotus.stingray.com/ads/loupe-loupe001-montreal/freecast/master.m3u8
+#EXTINF:-1 tvg-id="cms-drone-tv" tvg-name="cms-drone-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/737e0665-4cdf-4bde-a55e-46813581747d-1729008554.288934.256x256.png" group-title="TV", Drone TV
+https://b2cd22e4577b48008059d7d0b69cf41c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SelectTV_DroneTV/playlist.m3u8?ads.wurl_channel=1072&ads.wurl_name=DroneTV&ads.coppa=0
+#EXTINF:-1 tvg-id="cms-free-movies-plus" tvg-name="cms-free-movies-plus" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/67005703-0fe9-4cdc-865f-2c8634cb054f-1713811274.60294.256x256.png" group-title="Movies", Free Movies +
+https://amg02042-amg02042c15-freecast-us-2881.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviespluslite-freecastus/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-the-man-channel" tvg-name="cms-the-man-channel" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/59ecad13-4d6b-4146-bdf0-443bd6e4e9ac-1735847986.679182.256x256.png" group-title="Movies", The Man Channel
+https://freecast.telos.indicue.com/stream.m3u8?aid=6302&m=aHR0cHM6Ly9kM2dvZm1kNXMybng0by5jbG91ZGZyb250Lm5ldC81ZWM4Zjg5NDJkZGU0NmQ5OTEwOTQwMGZlN2FkZDliMy9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="cms-chickflix" tvg-name="cms-chickflix" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/39230d36-dff7-48ca-a1ea-9f0cc86f8753-1735575606.773467.256x256.png" group-title="Movies", ChickFlix
+https://freecast.telos.indicue.com/stream.m3u8?aid=6406&m=aHR0cHM6Ly9kM2dvZm1kNXMybng0by5jbG91ZGZyb250Lm5ldC82M2RiMzEzMmJiN2I0ZDcwODAxMWQ3ZmE5NTZlN2U4Yi9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="sc-384755" tvg-name="sc-384755" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/6c430043-6ad9-4a12-b7b4-44a9d83b3c1e-1677066661.301828.256x256.jpg" group-title="Movies", Hi-YAH!
+https://freecast.telos.indicue.com/stream.m3u8?troute=148&m=aHR0cHM6Ly9saW5lYXItNTkuZnJlcXVlbmN5LnN0cmVhbS9kaXN0L2ZyZWVjYXN0LzU5L2hscy9tYXN0ZXIvcGxheWxpc3QubTN1OA==
+#EXTINF:-1 tvg-id="cms-crimeflix" tvg-name="cms-crimeflix" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/5334dd45-9603-4b4f-a922-548b31dd6ce1-1723058424.199257.256x256.png" group-title="Movies", CrimeFlix
+https://d1fkc5hdg9r4d9.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freecast-MuxIP-CrimeFlix/391.m3u8
+#EXTINF:-1 tvg-id="sc-399830" tvg-name="sc-399830" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/3dd37324-a776-4f99-80ac-73807663f64f-1677066418.357304.256x256.jpg" group-title="Movies", Horror Machine
+https://freecast.telos.indicue.com/stream.m3u8?aid=6575&m=aHR0cHM6Ly9saW5lYXItODIuZnJlcXVlbmN5LnN0cmVhbS9kaXN0L2ZyZWVjYXN0LzgyL2hscy9tYXN0ZXIvcGxheWxpc3QubTN1OA==
+#EXTINF:-1 tvg-id="cms-heartfelt-tv" tvg-name="cms-heartfelt-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/635a9745-9180-47b0-b0d7-b72c3a281019-1692297935.523625.256x256.png" group-title="Movies", Heartfelt TV
+https://streams2.sofast.tv/ptnr-freecast/title-HEARTFELT-TV-ENG_Freecast/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9709ca1c-9c03-4f62-a30c-2a07742eff05/manifest.m3u8?ads.channel_name=heartfelt-tv-eng
+#EXTINF:-1 tvg-id="cms-lol-tv" tvg-name="cms-lol-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/e457a3a0-fb4e-4e0d-ba08-8e01e711fdb0-1689703095.644513.256x256.png" group-title="Movies", LOL TV
+https://streams2.sofast.tv/ptnr-freecast/title-LOL-TV-ENG_Freecast/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/64e81ef3-53b7-4685-bb49-432845ae23f3/manifest.m3u8?ads.channel_name=lol-tv-eng
+#EXTINF:-1 tvg-id="cms-limelight" tvg-name="cms-limelight" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/978e97e7-ecaf-48c6-9464-0a3e45a96633-1771957448.59479.256x256.jpg" group-title="Movies", Limelight
+https://bpk-livecdn.premiumfree.tv/afxpstr/Limelight/index.m3u8?bpkio_serviceid=cff02a74da64d145c7ad38099b3f87c6
+#EXTINF:-1 tvg-id="cms-movieitaly-channel" tvg-name="cms-movieitaly-channel" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/f97eed54-6c21-49ec-b3ba-c32bbb7da599-1722435073.88045.256x256.png" group-title="Movies", MovieItaly Channel
+https://api-ott-mnp-mi.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=62&partner=freecast
+#EXTINF:-1 tvg-id="cms-nolly-africa" tvg-name="cms-nolly-africa" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/37ffe75c-a5e8-4106-8ca4-a6c6215f89b0-1679939345.647439.256x256.png" group-title="Movies", Nolly Africa
+https://freecast.telos.indicue.com/stream.m3u8?aid=6402&m=aHR0cHM6Ly9hbWcwMjc4NC1hbWcwMjc4NGMxLWZyZWVjYXN0LXVzLTMzOTEucGxheW91dHMubm93LmFtYWdpLnR2L21hbmlmZXN0Lm0zdTg=
+#EXTINF:-1 tvg-id="cms-tidpix" tvg-name="cms-tidpix" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/18e9b3c3-9053-45bd-b33e-21b5505d64f3-1701372228.779688.256x256.png" group-title="Movies", TidPix
+https://api-ott.tidpix.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=freecast
+#EXTINF:-1 tvg-id="cms-encore-plus" tvg-name="cms-encore-plus" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/2ea5611a-6ce3-4f38-9652-552913500cab-1689106765.341079.256x256.png" group-title="Movies", ENCORE+
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/freecast3_sofast/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8?channel_name=encore+
+#EXTINF:-1 tvg-id="sc-410361" tvg-name="sc-410361" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/1971afc0-8854-47e3-9cb7-a7422c371162.256x256.jpg" group-title="Movies", Trailers From Hell
+https://45f74bc9d54942bb95df614645f3f505.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SelectTV_TrailersFromHell/playlist.m3u8?ads.wurl_channel=1048&ads.wurl_name=TrailersFromHell&ads.coppa=0&ads.app_name=SelectTV
+#EXTINF:-1 tvg-id="cms-giant-steps-movie-channel" tvg-name="cms-giant-steps-movie-channel" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/2813b0af-50c2-4811-a467-fa1b7b0d5723-1675969595.663266.256x256.png" group-title="Movies", MOVIE GIANTS TV
+https://freecast.telos.indicue.com/stream.m3u8?troute=153&m=aHR0cHM6Ly93aXNlY2RuYi53aXNlcGxheW91dC5jb20vbGl2ZS9tb3ZpZWdpYW50cy9tYXN0ZXIubTN1OA==
+#EXTINF:-1 tvg-id="cms-afriwood-blockbuster" tvg-name="cms-afriwood-blockbuster" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/ed6803ae-2ff6-40bc-b96c-5d466b75a58c-1771957261.063021.256x256.jpg" group-title="Movies", Afriwood BlockBuster
+https://bpk-livecdn.premiumfree.tv/afxpstr/AfriwoodBlockbuster/index.m3u8?bpkio_serviceid=cff02a74da64d145663d5b4d4f21809c
+#EXTINF:-1 tvg-id="sc-384818" tvg-name="sc-384818" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/d8e60bde-7005-40a9-bc9d-5cb2531d32b6-1683909983.219213.256x256.jpg" group-title="Lifestyle", Holly Wire
+https://bozztv.com/hwotta/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-made-in-hollywood" tvg-name="cms-made-in-hollywood" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/c3f4bd2b-21f3-41e2-961b-9c764c0c9cad-1675715005.870157.256x256.jpg" group-title="Lifestyle", Made In Hollywood
+https://2919b46989d84892826e651e5d831a17.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/SelectTV_MadeInHollywood/playlist.m3u8?ads.wurl_channel=276&ads.wurl_name=MadeInHollywood&ads.coppa=0
+#EXTINF:-1 tvg-id="cms-jewel-school" tvg-name="cms-jewel-school" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/79da6e6c-1b29-4399-a5ba-83e6279c4ba3.256x256.jpg" group-title="Lifestyle", Jewel School
+https://freecast.telos.indicue.com/stream.m3u8?aid=6372&m=aHR0cHM6Ly9hbWcwMTU3OS1qZXdlbHJ5dHYtYW1nMDE1NzljMS1mcmVlY2FzdC11cy0zNDQucGxheW91dHMubm93LmFtYWdpLnR2LzI3MDliNTU0LTU3NmYtNDFhZS05ZWY3LTJlMTMzZGQ4MzM1Mi8xNS0xNi0zNDQubTN1OA==
+#EXTINF:-1 tvg-id="cms-shg-living" tvg-name="cms-shg-living" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/c1040de7-b16b-4989-a9c8-1db50d13042e-1689620107.45756.256x256.png" group-title="Lifestyle", SHG Living
+https://na.linear.zype.com/9e977645-766d-47bb-b85c-729fff09f509/5edd8f5b-8328-44ef-8291-893f8698d9a5-hls4/live.m3u8
+#EXTINF:-1 tvg-id="sc-387958" tvg-name="sc-387958" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/4aefc4ae-debf-4189-adaa-92b030adb50c-1683909988.097709.256x256.jpg" group-title="Lifestyle", Living Modern
+https://freecast.telos.indicue.com/stream.m3u8?aid=6386&m=aHR0cHM6Ly8yLWZzcy0yLnN0cmVhbWhvc3Rlci5jb20vcGxfMTM4L2FtbHN0OjIwMTY4Ni0xMzEyODg4L3BsYXlsaXN0Lm0zdTg=
+#EXTINF:-1 tvg-id="sc-384767" tvg-name="sc-384767" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/e94df0cd-b011-45fc-b7e4-0a65ef33b709-1677148530.286288.256x256.jpg" group-title="Lifestyle", So Yummy
+https://freecast.telos.indicue.com/stream.m3u8?aid=6413&m=aHR0cHM6Ly9zb3l1bW15LXNlbGVjdHR2LmFtYWdpLnR2L2luZGV4Lm0zdTg=
+#EXTINF:-1 tvg-id="cms-drool" tvg-name="cms-drool" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/acab5872-55ec-4efb-b489-4c2f69180171-1774620259.185697.256x256.png" group-title="Lifestyle", Drool
+https://amg17448-amg17448c1-amgplt0065.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg17448-amg17448c1-amgplt0065/playlist.m3u8
+#EXTINF:-1 tvg-id="sc-384817" tvg-name="sc-384817" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/485d5d47-2bfd-48ce-aee8-5546bbcac716-1677149726.364046.256x256.jpg" group-title="Lifestyle", YTA
+https://freecast.telos.indicue.com/stream.m3u8?aid=6384&m=aHR0cHM6Ly95dGEudW5pdGVkdGVsZXBvcnRzLnR2L2hscy9ZVEEtU0NURTM1Lm0zdTg=
+#EXTINF:-1 tvg-id="cms-travel-escapes" tvg-name="cms-travel-escapes" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/1b20cf31-4e73-4855-9bad-58d5f7c8a2db-1722025560.932983.256x256.png" group-title="Lifestyle", Travel Escapes
+https://88de6b953ef94569a2b4b2e6629abc95.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SelectTV_TravelEscapes/playlist.m3u8?ads.wurl_channel=1550&ads.wurl_name=TravelEscapes&ads.coppa=0&ads.custom=%7BCUSTOM%7D&ads.content_dist_id=%7BCONTENT_DIST_NAME%7D&ads.distributor_id=%7BDISTRIBUTOR_ID%7D
+#EXTINF:-1 tvg-id="sc-413456" tvg-name="sc-413456" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/5f944ae0-1dda-4c83-b14a-71cbdc015ddb.256x256.jpg" group-title="Lifestyle", GoUSA TV
+https://5e4f5731710847deab7c76c80707a018.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SelectTV_GoUSATV-1/playlist.m3u8?ads.wurl_channel=1602&ads.wurl_name=GoUSATV-1&ads.coppa=0
+#EXTINF:-1 tvg-id="sc-384824" tvg-name="sc-384824" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/23ed1ef7-c879-49b5-9235-84219089accb-1677066159.687183.256x256.jpg" group-title="Lifestyle", Fun Roads
+https://freecast.telos.indicue.com/stream.m3u8?aid=6365&m=aHR0cHM6Ly93d3cuZnVucm9hZHMtaGxzMS5jb20vZnVucm9hZHMubTN1OA==
+#EXTINF:-1 tvg-id="cms-rvtv" tvg-name="cms-rvtv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/0c025278-e0af-46a6-b16f-6e5e7c0a6abe-1757706901.276842.256x256.png" group-title="Lifestyle", RVTV
+https://freecast.telos.indicue.com/stream.m3u8?aid=6415&m=aHR0cHM6Ly9ydnR2LW9uLWZyZWVjYXN0LmItY2RuLm5ldC9SVlRWLW9uLUZyZWVjYXN0L2luZGV4Lm0zdTg=
+#EXTINF:-1 tvg-id="cms-the-boat-show" tvg-name="cms-the-boat-show" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/720d7202-a2a5-440c-9c4b-8ff29225656a-1731080410.904326.256x256.png" group-title="Lifestyle", The Boat Show
+https://80c741566e1047c6a3cbec0c1e8af628.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SelectTV_TheBoatShow/playlist.m3u8?ads.wurl_channel=529&ads.wurl_name=TheBoatShow&ads.coppa=0
+#EXTINF:-1 tvg-id="sc-384760" tvg-name="sc-384760" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/9bdfb3ba-2cc0-4507-b2eb-b6d8deafb85a-1687887971.043121.256x256.jpg" group-title="Lifestyle", Outside
+https://outsidetvplus-selecttv.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplus-selecttv/CDN/playlist.m3u8?device%5bdid%5d=deviceid&device%5bdnt%5d=dnt&url=url
+#EXTINF:-1 tvg-id="cms-outdoor-action-tv" tvg-name="cms-outdoor-action-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/9bba95a2-ddbe-446b-81be-32e85cfb6626-1680017350.773645.256x256.png" group-title="Lifestyle", Outdoor Action TV
+https://bee3cf68b7e94ea6a35ff1fb47db7982.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SelectTV_OutdoorAction/playlist.m3u8?ads.wurl_channel=1158&ads.wurl_name=OutdoorAction&ads.coppa=0
+#EXTINF:-1 tvg-id="sc-390775" tvg-name="sc-390775" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/3f87bc25-8978-49fd-af6b-a62129a60dd5-1692381194.2056.256x256.png" group-title="Lifestyle", PursuitUp
+https://linear-205.frequency.stream/dist/freecast/205/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-american-stories-network" tvg-name="cms-american-stories-network" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/ff61fcc5-8dcd-4ec5-b3b6-b64f3baa8249-1776189446.127324.256x256.png" group-title="Lifestyle", American Stories Network
+https://linear-1016.frequency.stream/dist/freecast/1016/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-shooting-sports-life" tvg-name="cms-shooting-sports-life" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/03df2a55-334a-41af-a43a-8adb6be7da9f-1771018296.377192.256x256.png" group-title="Lifestyle", Shooting Sports Life
+https://linear-1312.frequency.stream/dist/freecast/1312/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-384753" tvg-name="cms-384753" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/8d937196-4b88-40b4-a2d7-dbcd37b6da72-1677062937.637887.256x256.jpg" group-title="Lifestyle", AWE Plus
+https://freecast.telos.indicue.com/stream.m3u8?aid=6292&m=aHR0cHM6Ly9hLWNkbi5oZXJyaW5nbmV0d29yay5jb20vYWZmaWxpYXRlL2F3ZWVfNzIwcC9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="sc-384816" tvg-name="sc-384816" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/651c4b33-3a52-4b8d-bda8-a8a17c16228a-1677148245.877587.256x256.jpg" group-title="Lifestyle", Right Now TV
+https://freecast.telos.indicue.com/stream.m3u8?aid=6421&m=aHR0cHM6Ly9jLnN0cmVhbWhvc3Rlci5jb20vbGluay9obHMvVzVzMzRSL0IzcEJFbk1zcXRTL2kyVEdFV3MwVktLXzUvcGxheWxpc3QubTN1OA==
+#EXTINF:-1 tvg-id="sc-384827" tvg-name="sc-384827" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/d2f04aad-800c-4418-97be-f0e227efcf44-1683909983.804982.256x256.jpg" group-title="Lifestyle", JetSet Network
+https://freecast.telos.indicue.com/stream.m3u8?aid=6371&m=aHR0cHM6Ly8yLWZzcy0xLnN0cmVhbWhvc3Rlci5jb20vcGxfMTIyL2FtbHN0OjIwMTY4Ni0xNTMwMzUyL3BsYXlsaXN0Lm0zdTg=
+#EXTINF:-1 tvg-id="cms-unchainedtv" tvg-name="cms-unchainedtv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/d0618aa9-1d9b-4740-80be-552b4bfdeb9f-1724879067.681414.256x256.png" group-title="Lifestyle", UNCHAINEDTV
+https://streams2.sofast.tv/ptnr-freecast/title-Unchained_TV_Freecast/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e78af1cc-a3e2-4c23-88ce-48ada035d5fe/master.m3u8?ads.channel_name=unchainedtv
+#EXTINF:-1 tvg-id="sc-389486" tvg-name="sc-389486" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/b2223358-4c8f-4192-a7e0-4c80b666f7bd.256x256.jpg" group-title="Lifestyle", Choppertown
+https://freecast.telos.indicue.com/stream.m3u8?aid=6303&m=aHR0cHM6Ly9saW5lYXItMTEuZnJlcXVlbmN5LnN0cmVhbS9kaXN0L2ZyZWVjYXN0LzExL2hscy9tYXN0ZXIvcGxheWxpc3QubTN1OA==
+#EXTINF:-1 tvg-id="cms-wine-watches-whiskey" tvg-name="cms-wine-watches-whiskey" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/4aa306c9-806f-412c-858a-9b775a560099-1757706757.816739.256x256.png" group-title="Lifestyle", Wine, Watches and Whiskey
+https://freecast.telos.indicue.com/stream.m3u8?aid=6387&m=aHR0cHM6Ly9XV1ctb24tRnJlZWNhc3QuYi1jZG4ubmV0L1dXVy1vbi1GcmVlY2FzdC9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="cms-fresh" tvg-name="cms-fresh" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/0047b934-2038-4bb7-9a9a-30a3e0b5052c-1771957390.567779.256x256.jpg" group-title="Lifestyle", Fresh
+https://bpk-livecdn.premiumfree.tv/afxpstr/FreshTv/index.m3u8?bpkio_serviceid=cff02a74da64d145df9dd2ac70ef4206
+#EXTINF:-1 tvg-id="the-mob-candy-magazine-show" tvg-name="the-mob-candy-magazine-show" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/3595a42e-bc7d-485b-8d66-a2d4fcdc31c5-1775238693.848904.256x256.png" group-title="Lifestyle", The Mob Candy Magazine Show
+https://freecast.telos.indicue.com/stream.m3u8?aid=7376&m=aHR0cHM6Ly9obHMuc2hvd2Zlci5jb20vbGl2ZS9yd1MwSy9Nb2JfQ2FuZHlfTWFnYXppbmUvZGVmYXVsdDYubTN1OA==
+#EXTINF:-1 tvg-id="cms-3abn-dare-to-dream-network" tvg-name="cms-3abn-dare-to-dream-network" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/29e304b9-b5ef-4822-acbd-d79c453004ab-1750107676.66309.256x256.png" group-title="Lifestyle", 3ABN Dare to Dream Network
+https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sc-410359" tvg-name="sc-410359" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/5a99d810-a0fa-4aa5-9023-37859c435cc7.256x256.jpg" group-title="Lifestyle", MoreU
+https://ebd3bd26a5b94784b4e4bf53596c3b91.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SelectTV_MoreU/playlist.m3u8?ads.wurl_channel=881&ads.wurl_name=MoreU&ads.coppa=0
+#EXTINF:-1 tvg-id="sc-410362" tvg-name="sc-410362" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/a6d9e78a-651c-4121-ba4c-38af7695dfbb.256x256.jpg" group-title="Lifestyle", Commune
+https://9735cda4c78d491186fe7b519b8d96c7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SelectTV_Commune-1/playlist.m3u8?ads.wurl_channel=996&ads.wurl_name=Commune-1&ads.coppa=0
+#EXTINF:-1 tvg-id="cms-wai-lana" tvg-name="cms-wai-lana" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/f0111f28-3845-4b6a-aae9-b338b182e963-1691588625.747905.256x256.png" group-title="Lifestyle", Wai Lana
+https://streams2.sofast.tv/ptnr-freecast/title-WAI_LANA_Freecast/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04789042-eeff-440e-95a0-d3fbcbeeb724/manifest.m3u8?ads.channel_name=wai_lana
+#EXTINF:-1 tvg-id="cms-my-money" tvg-name="cms-my-money" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/6b77d52b-2527-4a4e-9ac7-af984281ddd0-1723058372.383934.256x256.png" group-title="Lifestyle", My Money
+https://d384d6wz9ckfhj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freecast-MuxIP-MyMoney/468.m3u8
+#EXTINF:-1 tvg-id="cms-beondtv" tvg-name="cms-beondtv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/325b55d1-6ca2-4bd1-887d-3c59a227998b-1774379450.772854.256x256.png" group-title="Lifestyle", BEONDTV
+https://amg01681-amg01681c2-amgplt0065.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg01681-amg01681c2-amgplt0065/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-jltv" tvg-name="cms-jltv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/00785c54-b3ac-4aea-9145-c5c2edb42f88-1686256121.670805.256x256.png" group-title="Lifestyle", JLTV
+https://freecast.telos.indicue.com/stream.m3u8?aid=6373&m=aHR0cHM6Ly9qbHQtamx0di1mcmVlY2FzdC5vdHRlcmF2aXNpb24uY29tL2psdC9qbHR2L2psdHYubTN1OA==
+#EXTINF:-1 tvg-id="cms-jbs-tv" tvg-name="cms-jbs-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/2d1fa084-858a-4d6e-a2b1-d51af351c261-1758030455.130259.256x256.png" group-title="Lifestyle", JBS TV
+https://rpn3.bozztv.com/jbstv-srt/srt-push/jbstv_freecast/playlist.m3u8
+#EXTINF:-1 tvg-id="sc-390215" tvg-name="sc-390215" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/cd5b69b5-3535-4f5d-af3f-4649f5ef4566-1677149497.270427.256x256.jpg" group-title="Kids", Toon Goggles
+https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=263519&partner=selecttv
+#EXTINF:-1 tvg-id="sc-390216" tvg-name="sc-390216" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/aae02a58-1acf-4fc4-ba1d-b4288667df28-1677149541.397009.256x256.jpg" group-title="Kids", Toon Goggles JR
+https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=263528&partner=selecttv
+#EXTINF:-1 tvg-id="cms-kiddiwinks" tvg-name="cms-kiddiwinks" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/d939ae81-44b6-4f8f-9938-6c802cc23c2c-1771957420.32975.256x256.jpg" group-title="Kids", Kiddiwinks
+https://bpk-livecdn.premiumfree.tv/afxpstr/Kiddiwinks/index.m3u8?bpkio_serviceid=cff02a74da64d1457bb5ac7d9440ef19
+#EXTINF:-1 tvg-id="cms-xploration-station" tvg-name="cms-xploration-station" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/c8f1d3b7-e032-4050-9f41-aa68cddd7f6a-1689790853.98287.256x256.png" group-title="Kids", Xploration Station
+https://294565e0b73c484dbf7f32b312552ede.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SelectTV_XplorationStation/playlist.m3u8?ads.wurl_channel=1225&ads.wurl_name=XplorationStation&ads.coppa=0
+#EXTINF:-1 tvg-id="cms-afro-kiddos" tvg-name="cms-afro-kiddos" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/67a27116-4992-4755-85d0-44c111999dc1-1759258127.482509.256x256.png" group-title="Kids", Afro Kiddos
+https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=1485&partner=freecast
+#EXTINF:-1 tvg-id="cms-winnies-world-kidz-tv2" tvg-name="cms-winnies-world-kidz-tv2" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/6a04c665-2c65-42ab-ba56-97c651d15499-1684432650.157602.256x256.png" group-title="Kids", Winnie's World Kidz TV2
+https://freecast.telos.indicue.com/stream.m3u8?troute=137&m=aHR0cHM6Ly93aXNlY2RuYi53aXNlcGxheW91dC5jb20vbGl2ZS9XaW5uaWVzV29ybGRLaWR6VFYvbWFzdGVyLm0zdTg=
+#EXTINF:-1 tvg-id="cms-3abn-kids-network" tvg-name="cms-3abn-kids-network" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/fc317457-e79d-487d-bcef-96ca6be9b8c9-1750107750.94847.256x256.png" group-title="Kids", 3ABN Kids Network
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sc-388644" tvg-name="sc-388644" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/0afc5be0-d805-4686-aa2d-305afc298254-1695743004.032037.256x256.png" group-title="Kids", Youth Success Network
+https://freecast.telos.indicue.com/stream.m3u8?troute=138&m=aHR0cHM6Ly93aXNlY2RuYi53aXNlcGxheW91dC5jb20vbGl2ZS9Zb3V0aFN1Y2Nlc3MvbWFzdGVyLm0zdTg=
+#EXTINF:-1 tvg-id="sc-384765" tvg-name="sc-384765" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/c5a8e089-27bd-46f0-a470-3506e5fd0c29-1750338948.028507.256x256.jpg" group-title="Shopping", QVC 2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2uscln/master.m3u8
+#EXTINF:-1 tvg-id="sc-384766" tvg-name="sc-384766" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/ed38eca9-a2fc-4092-8be7-e5acfc252e11-1750338926.564588.256x256.jpg" group-title="Shopping", QVC 3
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3uscln/master.m3u8
+#EXTINF:-1 tvg-id="sc-384762" tvg-name="sc-384762" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/458257de-d33b-4272-ab06-d84654b8f606-1677067084.155193.256x256.jpg" group-title="Shopping", HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1usott/master.m3u8
+#EXTINF:-1 tvg-id="sc-384763" tvg-name="sc-384763" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/229e38e0-347f-437f-a5f3-2e29ce0454cb-1677067134.543985.256x256.jpg" group-title="Shopping", HSN 2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+#EXTINF:-1 tvg-id="cms-jtv" tvg-name="cms-jtv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/e10cf833-9921-4d98-991d-b0bbea22f135.256x256.jpg" group-title="Shopping", JTV
+https://freecast.telos.indicue.com/stream.m3u8?aid=6374&m=aHR0cHM6Ly9qZXdlbHJ5dHYtZnJlZWNhc3QuYW1hZ2kudHYvcGxheWxpc3QubTN1OA==
+#EXTINF:-1 tvg-id="sc-415778" tvg-name="sc-415778" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/859bc27d-b75e-430b-85a5-96a2f99ae875-1678922705.236922.256x256.jpg" group-title="Shopping", The Big Dish
+https://freecast.telos.indicue.com/stream.m3u8?aid=6409&m=aHR0cHM6Ly9xdmMtYW1kLWxpdmUuYWthbWFpemVkLm5ldC9obHMvbGl2ZS8yMDM0MTEzL2xzcXZjN3VzL21hc3Rlci5tM3U4
+#EXTINF:-1 tvg-id="sc-384846" tvg-name="sc-384846" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/596fce26-53fc-467b-b870-3fe80c0e178d-1687047145.221309.256x256.jpg" group-title="Shopping", Shop LC
+https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(SELECTTV)/master.m3u8
+#EXTINF:-1 tvg-id="cms-caracol-mix" tvg-name="cms-caracol-mix" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/6f4ec32a-3408-4434-8454-6e1305938e6c-1771953516.266326.256x256.png" group-title="Mis Canales", Caracol Mix
+https://amg01433-amg01433c1-freecast-us-10415.playouts.now.amagi.tv/playlist/amg01433-caracolmix-caracolmix-freecastus/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-azteca-international" tvg-name="cms-azteca-international" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/499e6b2a-e9d0-47a7-b49e-134cdb1988d8-1759258220.040687.256x256.png" group-title="Mis Canales", Azteca International
+https://api-ott-azteca-azt.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=648&partner=freecast
+#EXTINF:-1 tvg-id="cms-cine-y-series" tvg-name="cms-cine-y-series" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/bddbaa61-0c5b-4145-8f67-39abf64f2516-1747238745.856619.256x256.png" group-title="Mis Canales", Cine Y Series
+https://ffe82097922740f59aa7d74593a26a79.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SelectTV_CineYSeries/playlist.m3u8?ads.wurl_channel=1560&ads.wurl_name=CineYSeries&ads.coppa=0
+#EXTINF:-1 tvg-id="cms-mi-raza-canal-plus" tvg-name="cms-mi-raza-canal-plus" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/e1703a9f-f50f-4119-87a0-1a403337085c-1739988085.276071.256x256.jpg" group-title="Mis Canales", Mi Raza Canal Plus
+https://freecast.telos.indicue.com/stream.m3u8?aid=6393&m=aHR0cHM6Ly9zdHJlYW1zMi5zb2Zhc3QudHYvcHRuci1mcmVlY2FzdC90aXRsZS1NSV9SQVpBLUNBTkFMLXBsdXMvc29mYXN0cGxheW91dC83MzQzNGFlOC1hZDkwLWExZDYtMTFjNi1kOTk3ZDM1NzIxNzBfMF9ITFMvbWFuaWZlc3QubTN1OA==
+#EXTINF:-1 tvg-id="cms-freetv" tvg-name="cms-freetv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/89966733-c316-4d83-8da5-e31f71efa201-1726504405.468912.256x256.png" group-title="Mis Canales", FreeTV Live
+https://api-ott-oly-fv.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=19357&partner=freecast
+#EXTINF:-1 tvg-id="cms-electricnow-en-espanol" tvg-name="cms-electricnow-en-espanol" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/c2037e10-07ac-40ad-899a-fcdd634f50fc-1695386854.123922.256x256.png" group-title="Mis Canales", ElectricNow En Espanol
+https://amg01705-amg01705c2-amgplt0065.playout.now3.amagi.tv/playlist/amg01705-amg01705c2-amgplt0065/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-rcn-noticias" tvg-name="cms-rcn-noticias" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/b9dc8c48-dce7-415d-9ee6-00cc79d09aac-1744136406.895836.256x256.png" group-title="Mis Canales", RCN Noticias
+https://9757738f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2VsZWN0VFZfUkNOTm90aWNpYXNfSExT/playlist.m3u8?ads.wurl_channel=1991&ads.wurl_name=RCNNoticias&ads.coppa=0
+#EXTINF:-1 tvg-id="cms-real-americas-voice-es" tvg-name="cms-real-americas-voice-es" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/ad675d58-5016-40bb-9d85-72f49a84edb2-1777554482.15925.256x256.png" group-title="Mis Canales", Real America's Voice ES
+https://freecast.telos.indicue.com/stream.m3u8?aid=6937&m=aHR0cHM6Ly9zdHJlYW0ud2VhdGhlcm5hdGlvbnR2LmNvbS9SQVZFU1BGcmVlQ2FzdF9rZWpnZXV1ZTM4NzZVWkUvUkFWRVNQRnJlZUNhc3QubTN1OA==
+#EXTINF:-1 tvg-id="cms-comercio-tv" tvg-name="cms-comercio-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/8c38d787-247d-4771-9beb-69dea287edc0-1729264346.260335.256x256.png" group-title="Mis Canales", Comercio TV
+https://amg00082-amg00082c1-freecast-us-7240.playouts.now.amagi.tv/playlist/amg00082-tarima-comercio-freecastus/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-quiero-tv" tvg-name="cms-quiero-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/a4ec852e-11de-47a6-9ffe-b1ca96c6cbe8-1756826366.373169.256x256.jpg" group-title="Mis Canales", QuieroTV USA
+https://d3c8tise3a7ihl.cloudfront.net/out/v1/20a1877171a242298e4df9e05f4c2070/index.m3u8
+#EXTINF:-1 tvg-id="cms-azteca-deportes" tvg-name="cms-azteca-deportes" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/5c47dc59-ec1e-4318-a1ad-9cd3e60bdbe7-1768921184.226119.256x256.png" group-title="Mis Canales", Azteca Deportes
+https://api-ott-azteca-azt.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=823&partner=freecast
+#EXTINF:-1 tvg-id="cms-tyc-sports-fan" tvg-name="cms-tyc-sports-fan" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/f9ed6770-e2fe-4147-81f6-a083cf6390d4-1771856213.119908.256x256.jpg" group-title="Mis Canales", TyC Sports FAN
+https://streams2.sofast.tv/ptnr-freecast/title-TYC_SPORTS_Freecast/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/26da7abd-1e99-45f9-a176-8279228f8fae/manifest.m3u8
+#EXTINF:-1 tvg-id="cms-novelas-de-siempre" tvg-name="cms-novelas-de-siempre" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/5485c189-160b-45d6-811e-fab6de2ae28c-1775572780.213409.256x256.png" group-title="Mis Canales", Novelas De Siempre
+https://amg02724-amg02724c4-amgplt0065.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02724-amg02724c4-amgplt0065/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-rcn-mas" tvg-name="cms-rcn-mas" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/90240bca-c750-49d9-8af7-12ae7c663b9b-1744985371.628419.256x256.jpg" group-title="Mis Canales", RCN Más
+https://941c68d5e2a64f6594985d92f33fc953.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SelectTV_RCNMas/playlist.m3u8?ads.wurl_channel=926&ads.wurl_name=RCNMas&ads.coppa=0&ads.custom=%7BCUSTOM%7D
+#EXTINF:-1 tvg-id="cms-novelisima" tvg-name="cms-novelisima" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/33009681-d88f-43a9-b20b-c62d2d90d675-1684517589.609057.256x256.jpg" group-title="Mis Canales", Novelísima
+https://freecast.telos.indicue.com/stream.m3u8?aid=6405&m=aHR0cHM6Ly9jaXMtbm8tZXMtZnJlZWNhc3Qub3R0ZXJhdmlzaW9uLmNvbS9jaXMvbm9fZXMvbm9fZXMubTN1OA==
+#EXTINF:-1 tvg-id="cms-corazon" tvg-name="cms-corazon" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/63a68b08-8108-452f-8b94-cb5ee2f4e94b-1759257698.660898.256x256.png" group-title="Mis Canales", Corazon
+https://api-ott-azteca-azt.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=61&partner=freecast
+#EXTINF:-1 tvg-id="cms-romance" tvg-name="cms-romance" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/84bd4e17-3aa1-4167-872e-053f40dbdf0f-1722277359.28722.256x256.png" group-title="Mis Canales", Romance
+https://freecast.telos.indicue.com/stream.m3u8?troute=134&m=aHR0cHM6Ly9lZGdlLWZhc3QyLmV2cmlkZW8udHYvMGJjODUzMWYtOTE5Mi00YzNmLWExNTctZmMwNTJmNWEwNDVmXzEwMDAwMjYxOTFfSExTL21hbmlmZXN0Lm0zdTg=
+#EXTINF:-1 tvg-id="cms-mundo-series" tvg-name="cms-mundo-series" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/59edb23e-67d8-4c6a-bb74-9ad280f20700-1722952348.07724.256x256.png" group-title="Mis Canales", Mundo Series
+https://streams2.sofast.tv/ptnr-freecast_sofast/title-MUNDO_SERIES_freecast/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a14e7c7e-5bff-4188-ad76-86b735390df4/manifest.m3u8?ads.channel_name=mundo_series
+#EXTINF:-1 tvg-id="cms-zona-investigacion-tv" tvg-name="cms-zona-investigacion-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/e76a9604-d2e7-4e41-9226-92cae2c30675-1747238763.260378.256x256.png" group-title="Mis Canales", Zona Investigación TV
+https://30e29889f0594d66807991ce49f64755.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SelectTV_ZonaInvestigacionTV/playlist.m3u8?ads.wurl_channel=1558&ads.wurl_name=ZonaInvestigacionTV&ads.coppa=0
+#EXTINF:-1 tvg-id="cms-latinocircuit-tv" tvg-name="cms-latinocircuit-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/9c61af4f-b01d-4d5a-8997-4c08cd370ac6-1760033876.178676.256x256.png" group-title="Mis Canales", LatinoCircuit TV
+https://freecast.telos.indicue.com/stream.m3u8?aid=6376&m=aHR0cHM6Ly9vdi5vdHRlcmEudHYvY2hhbm5lbHMvZGZ6X2xjdHYvbWFzdGVyLm0zdTg=
+#EXTINF:-1 tvg-id="sc-384822" tvg-name="sc-384822" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/bc1ba35f-b802-4af0-8681-44f288491bd5-1707856407.578725.256x256.png" group-title="Mis Canales", FreeTV Drama
+https://api-ott-oly-fv.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=19353&partner=freecast
+#EXTINF:-1 tvg-id="sc-384830" tvg-name="sc-384830" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/b3252f64-7232-4836-a7e4-dbb48d93b7c3-1707856270.736708.256x256.png" group-title="Mis Canales", FreeTV Estelar
+https://api-ott-oly-fv.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=16532&partner=freecast
+#EXTINF:-1 tvg-id="sc-384831" tvg-name="sc-384831" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/053884f7-7614-44e9-a2e8-73f8705d966b-1707856319.071895.256x256.png" group-title="Mis Canales", FreeTV Accion
+https://api-ott-oly-fv.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=19361&partner=freecast
+#EXTINF:-1 tvg-id="sc-384837" tvg-name="sc-384837" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/3693de83-bebe-4a5a-80a2-8e5c71cf8d6c-1707856437.669078.256x256.png" group-title="Mis Canales", FreeTV Sureño
+https://api-ott-oly-fv.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=16417&partner=freecast
+#EXTINF:-1 tvg-id="sc-390778" tvg-name="sc-390778" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/cf935835-f4b2-4d0a-8bf3-1c7f0c684ecb-1707856500.87097.256x256.png" group-title="Mis Canales", FreeTV Familia
+https://api-ott-oly-fv.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=19355&partner=freecast
+#EXTINF:-1 tvg-id="cms-mi-raza-canal" tvg-name="cms-mi-raza-canal" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/3ab0ec6f-ab91-4b1f-b978-7360615f4abe-1739818569.171037.256x256.jpg" group-title="Mis Canales", Mi Raza Canal
+https://freecast.telos.indicue.com/stream.m3u8?aid=6392&m=aHR0cHM6Ly9zdHJlYW1zMi5zb2Zhc3QudHYvcHRuci1mcmVlY2FzdC90aXRsZS1NSS1SQVpBLUNBTkFML3NvZmFzdHBsYXlvdXQvMzZhY2RiMjMtOWE1MS00Y2ViLWFmMDQtZWNlZGZhYmVmMGQ3XzBfSExTL21hc3Rlci5tM3U4
+#EXTINF:-1 tvg-id="wurl-pelimex" tvg-name="wurl-pelimex" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/864eb71d-3224-4116-838f-a7923c3d4134-1716930828.157177.256x256.jpg" group-title="Mis Canales", PeliMex
+https://8dcdb001b1da4ebdb566c1e443a079d1.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SelectTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184&ads.wurl_name=PeliMex&ads.coppa=0
+#EXTINF:-1 tvg-id="cms-suspenso" tvg-name="cms-suspenso" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/9c16771b-a786-4e56-8d7e-e03be20c0dfc-1722277462.035375.256x256.png" group-title="Mis Canales", Suspenso
+https://freecast.telos.indicue.com/stream.m3u8?troute=135&m=aHR0cHM6Ly9lZGdlLWZhc3QzLmV2cmlkZW8udHYvYTEzMWNmOWMtZmIxOS00Yjc3LTk1YmQtNTJlYmM1ZTJkYWEwXzEwMDAwMjcwOTBfSExTL21hbmlmZXN0Lm0zdTg=
+#EXTINF:-1 tvg-id="sc-390776" tvg-name="sc-390776" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/550bb2b0-026c-4fe2-a14a-2540d9c3e661-1707856471.344073.256x256.png" group-title="Mis Canales", FreeTV Terror
+https://api-ott-oly-fv.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=19363&partner=freecast
+#EXTINF:-1 tvg-id="cms-cine-de-horror" tvg-name="cms-cine-de-horror" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/9fdcb6f9-0e91-475f-b6ac-11eb1b40acd9-1776801205.14006.256x256.png" group-title="Mis Canales", Cine de Horror
+https://amg02724-amg02724c1-amgplt0065.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02724-amg02724c1-amgplt0065/playlist.m3u8
+#EXTINF:-1 tvg-id="sc-390777" tvg-name="sc-390777" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/b86aea98-0397-49b5-b3cc-1896bcd33b6f-1707856527.759923.256x256.png" group-title="Mis Canales", FreeTV Saber Mas
+https://api-ott-oly-fv.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=23364&partner=freecast
+#EXTINF:-1 tvg-id="cms-freetv-clasico" tvg-name="cms-freetv-clasico" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/a8e9a317-4831-496f-af6f-e724217c3b28-1726504729.46002.256x256.png" group-title="Mis Canales", FreeTV Clasico
+https://api-ott-oly-fv.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=16106&partner=freecast
+#EXTINF:-1 tvg-id="cms-cine-mas" tvg-name="cms-cine-mas" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/37958248-7036-4596-9836-22b13eb6b4a2-1771856092.52575.256x256.jpg" group-title="Mis Canales", Cine Más
+https://streams2.sofast.tv/ptnr-freecast/title-CINEMAS_Freecast/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/92488d74-165d-4ab6-b489-3c1663d7cdbd/manifest.m3u8
+#EXTINF:-1 tvg-id="cms-teleonce-america" tvg-name="cms-teleonce-america" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/9df3678e-b416-44c5-aa82-8ea2e969aeea-1765298021.979893.256x256.png" group-title="Mis Canales", TeleOnce America
+https://amg27206-amg27206c1-amgplt0065.playout.now3.amagi.tv/playlist/amg27206-amg27206c1-amgplt0065/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-clic" tvg-name="cms-clic" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/8b25b436-8eff-4f57-93f5-4ee321fbab0c-1759258104.859602.256x256.png" group-title="Mis Canales", Clic
+https://api-ott-azteca-azt.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=63&partner=freecast
+#EXTINF:-1 tvg-id="cms-un-tv" tvg-name="cms-un-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/013a2288-908e-4281-a45f-584c70f3e4d3-1752610868.617413.256x256.png" group-title="Mis Canales", Ún TV
+https://5e9f102ad23d4f7daf08c27c416fce70.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SelectTV_UnicaTV/playlist.m3u8?ads.wurl_channel=1559&ads.wurl_name=UnicaTV&ads.coppa=0
+#EXTINF:-1 tvg-id="cms-chicas-guapas" tvg-name="cms-chicas-guapas" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/6c0fb3e6-421c-4147-a1b4-730cd080a354-1759257727.365951.256x256.png" group-title="Mis Canales", Chicas Guapas
+https://api-ott.chicasguapas.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=freecast
+#EXTINF:-1 tvg-id="cms-enlace" tvg-name="cms-enlace" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/0fd25625-03d1-4f8f-989c-d49eef9ee446-1759852679.438313.256x256.png" group-title="Mis Canales", Enlace
+https://hlshd.enlace.plus/enlacehd/smil:enl-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-3abn-latino-network" tvg-name="cms-3abn-latino-network" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/78aeae54-bb7d-4a50-a6dc-5b4d437e6169-1750107765.815706.256x256.png" group-title="Mis Canales", 3ABN Latino Network
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-aliento-vision" tvg-name="cms-aliento-vision" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/f07e8e1b-bcab-475e-8e41-6b31495adc3c-1776456356.420792.256x256.png" group-title="Mis Canales", Aliento Visión
+https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-toon-goggles-en-espanol" tvg-name="cms-toon-goggles-en-espanol" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/aeb1f8ff-3d39-4df3-9807-b2746dc6072e-1678857907.334852.256x256.jpg" group-title="Mis Canales", Toon Goggles en Español
+https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=266202&partner=selecttv
+#EXTINF:-1 tvg-id="sc-384829" tvg-name="sc-384829" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/8bb15a04-d23b-4553-82fb-982bcd3eab84-1707923707.388705.256x256.png" group-title="Mis Canales", FreeTV Hits
+https://api-ott-oly-fv.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=23361&partner=freecast
+#EXTINF:-1 tvg-id="sc-384854" tvg-name="sc-384854" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/0ee1ae4a-4921-45b1-a7da-64b5637ce1cd-1707856574.429607.256x256.png" group-title="Mis Canales", FreeTV Banda
+https://api-ott-oly-fv.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=19359&partner=freecast
+#EXTINF:-1 tvg-id="cms-vr-plus" tvg-name="cms-vr-plus" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/13df64f2-df94-4f22-ad9b-dd6402ba8d36-1744138096.724551.256x256.png" group-title="Mis Canales", VR+
+https://ef8e67ad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2VsZWN0VFZfVlJQbHVzX0hMUw/playlist.m3u8?ads.wurl_channel=1535&ads.wurl_name=VRPlus&ads.coppa=0
+#EXTINF:-1 tvg-id="cms-pala-banda-usa" tvg-name="cms-pala-banda-usa" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/dda90e5c-268b-447e-a628-9c418c764898-1764795865.958461.256x256.png" group-title="Mis Canales", PA’LA BANDA USA
+https://d2rs6y0ht8lsax.cloudfront.net/out/v1/7bcb0b6b2b5542ff83a0a9d2ec347da2/index.m3u8
+#EXTINF:-1 tvg-id="cms-elevation-church" tvg-name="cms-elevation-church" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/c46f23be-6d34-437b-bc12-bfaa794d03e4-1754939316.800625.256x256.jpg" group-title="Faith", Elevation Church
+https://freecast.telos.indicue.com/stream.m3u8?aid=6362&m=aHR0cHM6Ly9saW5lYXItMTA2Ni5mcmVxdWVuY3kuc3RyZWFtL2Rpc3QvZnJlZWNhc3QvMTA2Ni9obHMvbWFzdGVyL3BsYXlsaXN0Lm0zdTg=
+#EXTINF:-1 tvg-id="cms-ctn" tvg-name="cms-ctn" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/490baf39-63d2-43a2-8bef-5da4d69fe7fe-1761926401.203084.256x256.png" group-title="Faith", CTN
+https://d3k5y954fiztgy.cloudfront.net/FREECAST/CTN-2b0dd347-f7b0-e7ed-9096-68966d29db50/index.m3u8
+#EXTINF:-1 tvg-id="cms-tct-network" tvg-name="cms-tct-network" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/c3749386-e684-4c55-8453-aa2ed8c04b20-1770404140.181368.256x256.png" group-title="Faith", TCT Network
+https://d3k5y954fiztgy.cloudfront.net/v1/master/36da43ef19a73084c6c27662c7531ffa75a2f69f/prod_fast_TCT/index.m3u8
+#EXTINF:-1 tvg-id="cms-intouch" tvg-name="cms-intouch" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/62c53863-f4bb-42e1-a94c-0051c3eeec63-1676410661.881086.256x256.jpg" group-title="Faith", In Touch+
+https://amg01540-amg01540c2-freecast-us-9337.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="sc-389355" tvg-name="sc-389355" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/b4e30f1c-803f-4f17-a1e3-3f2b503935a1-1687810848.138944.256x256.jpg" group-title="Faith", SonLife
+https://d3k5y954fiztgy.cloudfront.net/FREECAST/SBN-FC-96e2a092-6341-fd29-0c82-6896712f2dbc/index.m3u8
+#EXTINF:-1 tvg-id="cms-3abn" tvg-name="cms-3abn" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/139c211e-1f81-471a-902f-a5837f18c67a-1750107640.160823.256x256.png" group-title="Faith", 3ABN
+https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sc-384852" tvg-name="sc-384852" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/5d46af88-069a-40f3-894b-1be8eac62c0d-1677065049.165691.256x256.jpg" group-title="Faith", Faith TV
+https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-nrbtv" tvg-name="cms-nrbtv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/b8a490df-91c7-4c3a-bdd3-9f798d95898f-1755004265.160844.256x256.png" group-title="Faith", NRBTV
+https://rpn.bozztv.com/nrbtv-pull/nrbtv1/index.m3u8
+#EXTINF:-1 tvg-id="cms-the-walk" tvg-name="cms-the-walk" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/01f53b13-9b08-482f-b0d8-85828d9c9baf-1773777480.40344.256x256.png" group-title="Faith", The Walk
+https://wggstv16.ddns.net:9953/hls/walk1.m3u8
+#EXTINF:-1 tvg-id="sc-384849" tvg-name="sc-384849" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/0c709fc6-5eba-418c-8e8c-89d9bccb4a71-1677066233.1061.256x256.jpg" group-title="Faith", God TV
+https://ott.god.tv/live/us/master.m3u8
+#EXTINF:-1 tvg-id="sc-390670" tvg-name="sc-390670" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/7ef92e54-8c50-42c9-a674-00df57b7f943-1695743003.897656.256x256.png" group-title="Faith", The Word Network
+https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
+#EXTINF:-1 tvg-id="sc-415746" tvg-name="sc-415746" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/cdf2c4e0-daa8-450f-8e23-573146ae2f71-1767196346.631868.256x256.png" group-title="Faith", Pioneer Network
+https://live-mcl.cdn01.net/web/88v3z3544/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-3abn-proclaim-network" tvg-name="cms-3abn-proclaim-network" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/ed8ee8cc-6889-445b-bb07-79e43f45d94a-1750107656.946095.256x256.png" group-title="Faith", 3ABN Proclaim! Network
+https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-greater-love-tv" tvg-name="cms-greater-love-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/92f0f317-fce2-4345-bd21-7a6b0fa979bb-1754597651.376405.256x256.png" group-title="Faith", Greater Love TV
+https://rpn.bozztv.com/dvrfl04/itv04019/index.m3u8
+#EXTINF:-1 tvg-id="cms-the-point-network" tvg-name="cms-the-point-network" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/c8faf15e-5a97-4444-96f6-90e8725aa29e-1767735465.388112.256x256.png" group-title="Faith", The POINT Network
+https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8
+#EXTINF:-1 tvg-id="cms-watc-tv" tvg-name="cms-watc-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/7b37b5c2-1374-45d7-b24e-6e0b068b3f74-1767735634.327513.256x256.png" group-title="Faith", WATC TV57
+https://tgn.bozztv.com/watc57/watc57-1/watc57-1/index.m3u8
+#EXTINF:-1 tvg-id="cms-harmony-gospel-music-tv" tvg-name="cms-harmony-gospel-music-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/a417fb41-1e71-442b-8504-0a75e7a4384f-1767735626.40996.256x256.png" group-title="Faith", Harmony Gospel Music TV
+https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8
+#EXTINF:-1 tvg-id="cms-qwest-tv" tvg-name="cms-qwest-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/d341a91d-2205-48f7-92dc-0632a32e3ac8-1775076132.584866.256x256.png" group-title="Blk", Qwest TV
+https://amg00447-amg00447c1-freecast-us-7757.playouts.now.amagi.tv/playlist/amg00447-qwesttvfast-qwesttv-freecastus/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-trace-urban" tvg-name="cms-trace-urban" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/c6ebb346-00ac-49a2-9875-53fc49f2cef4-1759261914.269828.256x256.png" group-title="Blk", TRACE Urban
+https://freecast.telos.indicue.com/stream.m3u8?aid=6391&m=aHR0cHM6Ly9kMTZ5cHRwYml1bGR0dC5jbG91ZGZyb250Lm5ldC80Y2E3NzU3YTcwYjc0OGQ3YmNiNzU1ZTI4OGE2MDFmMi9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="cms-3abn-international-network" tvg-name="cms-3abn-international-network" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/4876c998-47f6-4860-8813-20c83839e879-1750107699.241946.256x256.png" group-title="International", 3ABN International Network
+https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-3abn-canada" tvg-name="cms-3abn-canada" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/bfdacdf1-cfb5-4d5b-8aa4-bb12a1749930-1750107718.359295.256x256.png" group-title="International", 3ABN Canada
+https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
+#EXTINF:-1 tvg-id="cms-3abn-francais-network" tvg-name="cms-3abn-francais-network" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/666ee12c-d845-4c6c-85ea-e42c4d96bccc-1750107804.411104.256x256.png" group-title="International", 3ABN Français Network
+https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-golf-network" tvg-name="cms-golf-network" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/03023853-6a59-41a5-a670-e2832b4162e2-1774030402.984857.256x256.png" group-title="International", Golf Network
+https://streams2.sofast.tv/ptnr-freecast/title-Golf_Network_Freecast/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/77922dc7-74a5-422e-89ca-f3df9eb3d70d/manifest.m3u8
+#EXTINF:-1 tvg-id="cns-arirang-tv" tvg-name="cns-arirang-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/0f60117f-ab45-4b76-b31b-856bf001a4d0-1752064217.875149.256x256.png" group-title="International", Arirang TV
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-diya-tv" tvg-name="cms-diya-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/106f2862-f0bf-45a5-97a6-3c3bbdefd01b-1772812394.339461.256x256.png" group-title="International", Diya TV
+https://freecast.telos.indicue.com/stream.m3u8?aid=7011&m=aHR0cHM6Ly9zdHJlYW0uZGl5YXR2aW5jLmNvbS9kaXlhLm0zdTg=
+#EXTINF:-1 tvg-id="cms-jubao" tvg-name="cms-jubao" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/fc49084b-63d5-4577-9c83-4e44ed4ea4a0-1712242315.310036.256x256.png" group-title="International", JUBAO
+https://ov.ottera.tv/channels/imd_jb/master.m3u8
+#EXTINF:-1 tvg-id="cms-aliwko" tvg-name="cms-aliwko" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/b1d66f02-f579-4bcc-8fa0-44c7272dd4b4-1712243914.244984.256x256.png" group-title="International", ALIWKO
+https://ov.ottera.tv/channels/imd_alj/master.m3u8
+#EXTINF:-1 tvg-id="cms-china-travel" tvg-name="cms-china-travel" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/1d8c0838-4df8-4dfa-aca3-ac146499c54d-1770842932.909678.256x256.png" group-title="International", China Travel
+https://freecast.telos.indicue.com/stream.m3u8?aid=6723&m=aHR0cHM6Ly9mYXN0bGl2ZS5jY3R2cGx1cy5jb20vb3V0L3YxL2NhNmY5Mjk3YjczMTRhNjM5NTk0MzUwMjhhZjI4N2ZjL2luZGV4Lm0zdTg=
+#EXTINF:-1 tvg-id="cms-discovering-china" tvg-name="cms-discovering-china" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/5f4677b4-942c-403b-9ebe-6d2e5b9c3a60-1770842928.53464.256x256.png" group-title="International", Discovering China
+https://freecast.telos.indicue.com/stream.m3u8?aid=6724&m=aHR0cHM6Ly9mYXN0bGl2ZS5jY3R2cGx1cy5jb20vb3V0L3YxLzg0NDJjM2JmZDRjNjRhMzk4NDM4OTMyOGY2MDg3ODc5L2luZGV4Lm0zdTg=
+#EXTINF:-1 tvg-id="cms-al-arabiya-news" tvg-name="cms-al-arabiya-news" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/5e7762c7-30db-4a8a-91ae-33a5bf74ca34-1705599022.366027.256x256.png" group-title="International", Al Arabiya News
+https://freecast.telos.indicue.com/stream.m3u8?aid=6290&m=aHR0cHM6Ly9mcmVlY2FzdC5pcHR2Y2RuLnR2L21jbmNfY2RuL0FMX0FSQUJJWUFfSERfRU5DT0RFRC9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="cms-asharq-news" tvg-name="cms-asharq-news" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/595b9bcf-debf-4c2e-b459-bb193eacd689-1705599223.440899.256x256.png" group-title="International", Asharq News
+https://freecast.telos.indicue.com/stream.m3u8?aid=6291&m=aHR0cHM6Ly9mcmVlY2FzdC5pcHR2Y2RuLnR2L21jbmNfY2RuL0FTSEFSUV9ORVdTX0VOQ09ERURfQUJSL3BsYXlsaXN0Lm0zdTg=
+#EXTINF:-1 tvg-id="cms-panorama-drama" tvg-name="cms-panorama-drama" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/0f1f6bef-65ab-48b0-bb19-ab86c69b3ef0-1705598736.951396.256x256.png" group-title="International", Panorama Drama
+https://freecast.telos.indicue.com/stream.m3u8?aid=6410&m=aHR0cHM6Ly9mcmVlY2FzdC5pcHR2Y2RuLnR2L21jbmNfY2RuL1BBTk9SQU1BX0RSQU1BX0VOQ09ERUQvcGxheWxpc3QubTN1OA==
+#EXTINF:-1 tvg-id="cms-rotana-aflam" tvg-name="cms-rotana-aflam" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/74fdc96c-de14-47f0-9d5a-f9c5b303500a-1705598509.317677.256x256.jpg" group-title="International", Rotana Aflam+
+https://freecast.telos.indicue.com/stream.m3u8?aid=6420&m=aHR0cHM6Ly9mcmVlY2FzdC5pcHR2Y2RuLnR2L21jbmNfY2RuL1JPVEFOQV9BRkxBTVBMVVNfRU5DT0RFRC9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="cms-m-plus" tvg-name="cms-m-plus" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/f66ca6ef-0437-4a13-b19b-62cca5960f63-1705598610.655404.256x256.png" group-title="International", Rotana M+
+https://freecast.telos.indicue.com/stream.m3u8?aid=6418&m=aHR0cHM6Ly9mcmVlY2FzdC5pcHR2Y2RuLnR2L21jbmNfNXNfY2RuL1JPVEFOQV9NUExVU18zMEZQU19BQlIvcGxheWxpc3QubTN1OA==
+#EXTINF:-1 tvg-id="cms-true-african" tvg-name="cms-true-african" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/6ebcb2a1-7fbc-4190-93a8-6e75921c4fc5-1771957559.052306.256x256.jpg" group-title="International", True African
+https://bpk-livecdn.premiumfree.tv/afxpstr/TrueAfrican/index.m3u8?bpkio_serviceid=cff02a74da64d145c2104ddc5906e465
+#EXTINF:-1 tvg-id="cms-cinema-hausa" tvg-name="cms-cinema-hausa" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/62008a9e-097a-4d7a-b01e-11e5ce649ae2-1771957677.399524.256x256.jpg" group-title="International", Cinema Hausa
+https://bpk-livecdn.premiumfree.tv/afxpstr/CinemaHausa/index.m3u8?bpkio_serviceid=cff02a74da64d1459fb9dd01d2e34a61
+#EXTINF:-1 tvg-id="cms-cinema-yoruba" tvg-name="cms-cinema-yoruba" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/29970c27-f827-4177-bf8d-55090774c278-1771957700.68014.256x256.jpg" group-title="International", Cinema Yoruba
+https://bpk-livecdn.premiumfree.tv/afxpstr/CinemaYoruba/index.m3u8?bpkio_serviceid=cff02a74da64d1451febad946678a294
+#EXTINF:-1 tvg-id="cms-avaz" tvg-name="cms-avaz" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/64f2541a-b10c-496f-abc2-12e68a032f29-1759257711.335313.256x256.png" group-title="International", AVAZ
+https://api-ott.bluepictures.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=42&partner=freecast
+#EXTINF:-1 tvg-id="cms-rtvi-us" tvg-name="cms-rtvi-us" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/0b402367-7aa4-477b-a759-717b5630e055-1759246371.450917.256x256.png" group-title="International", RTVI US FAST
+https://freecast.telos.indicue.com/stream.m3u8?aid=6416&m=aHR0cHM6Ly9hbWcxNzIzMy1hbWcxNzIzM2MxLWZyZWVjYXN0LXVzLTk5NDUucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTg=
+#EXTINF:-1 tvg-id="cms-3abn-russia-network" tvg-name="cms-3abn-russia-network" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/4ba33aa3-15d0-4a9b-b29b-b489e5108885-1750107784.286523.256x256.png" group-title="International", 3ABN Russia Network
+https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-one-caribbean-television" tvg-name="cms-one-caribbean-television" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/71291876-95b9-4018-a87a-034a7ab658c3-1761329909.975592.256x256.jpg" group-title="International", One Caribbean Television
+https://freecast.telos.indicue.com/stream.m3u8?aid=6383&m=aHR0cHM6Ly9kYWkyLXBsYXlsaXN0c2VydmVyLmF3cy5zeW5jYmFrLmNvbS9tMi9sb2NhbG5vdy8wMmViYWRkMWUyMzVmOTM4OWZmYTVhZWQ5ZTU1MTVhMmNkODEzNzA3ZDEwNTlmNTRjMzZlN2QyMDlmNjFiZGE5N2JkNGE5NGRiNTg3L21hc3Rlci5tM3U4
+#EXTINF:-1 tvg-id="cms-one-caribbean-weather" tvg-name="cms-one-caribbean-weather" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/6a68f11d-01bf-487e-a831-23c473229827-1761329602.350843.256x256.jpg" group-title="International", One Caribbean Weather
+https://freecast.telos.indicue.com/stream.m3u8?aid=6382&m=aHR0cHM6Ly9kYWkyLXBsYXlsaXN0c2VydmVyLmF3cy5zeW5jYmFrLmNvbS9tMi9sb2NhbG5vdy8yNTVhNmE5ZjI2M2UxZTliYmZlNGRiZDE2NjNjNTI2ZmRiODY5ZThhZDA2NWVkYjg5NjI5MTIwZmU3OTZjY2RhMWVjNGRhOGViYThmL21hc3Rlci5tM3U4
+#EXTINF:-1 tvg-id="cms-ayiti-tv" tvg-name="cms-ayiti-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/75e3bdd2-88f5-4d69-93ff-8b28f744a31f-1761233313.824985.256x256.png" group-title="International", Ayiti TV
+https://view.dacast.com/c0b3a450-aa14-f447-4861-1d6e47f6bf76-live-95355c28-9ace-c2d6-a8f0-c90dd5800abb/adaptive.m3u8
+#EXTINF:-1 tvg-id="cms-tele-independence" tvg-name="cms-tele-independence" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/4e5cfa67-f447-46b6-95a9-fec1d9e3811e-1761233604.536822.256x256.png" group-title="International", Tele Independence
+https://video2.getstreamhosting.com:19360/8064/8064.m3u8
+#EXTINF:-1 tvg-id="cms-caribvision" tvg-name="cms-caribvision" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/85367617-6852-4fc0-9176-913a3378b0af-1749733051.354017.256x256.png" group-title="International", CaribVision
+https://d15gk5a13gdlfb.cloudfront.net/CaribVision/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-rbti-sports" tvg-name="cms-rbti-sports" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/e61c7ea5-d6b6-45d6-8512-bf7d2388dc00-1775590201.629042.256x256.png" group-title="International", RBTI+
+https://cdn-5.nxplay.com.br/rbti/index.m3u8
+#EXTINF:-1 tvg-id="cms-rbtitv" tvg-name="cms-rbtitv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/130ea85f-7984-4a25-848f-c74fbd018c77-1775590123.994535.256x256.png" group-title="International", RBTI+TV
+https://freecast.telos.indicue.com/stream.m3u8?aid=6377&m=aHR0cHM6Ly9jZG4tMy5ueHBsYXkuY29tLmJyL0NFTlRSQUxfRE9fUExBWS9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="cms-playing-for-change" tvg-name="cms-playing-for-change" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/6ccbef3d-2f61-4f75-b734-2bbb1863a479-1694536991.96232.256x256.png" group-title="Music", Playing For Change
+https://freecast.telos.indicue.com/stream.m3u8?aid=6414&m=aHR0cHM6Ly9kMmgwbnNhZHJmN3Iyby5jbG91ZGZyb250Lm5ldC9mZTQ4MTgyMjgyNmE0ZmRlOWJjYjYzYzRmYTc5OGM5My9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="cms-revolt-mixtape" tvg-name="cms-revolt-mixtape" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/12943884-666b-472e-800a-c0bdb1afe2b2-1776803368.002484.256x256.png" group-title="Music", REVOLT Mixtape
+https://amg00883-amg00883c3-amgplt0065.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00883-amg00883c3-amgplt0065/playlist.m3u8
+#EXTINF:-1 tvg-id="cms-spin" tvg-name="cms-spin" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/4c2ced96-cb89-4406-8e3d-2b330dc431d7-1691684230.133113.256x256.png" group-title="Music", SPIN
+https://73128bfd6e4d4a6b8206fbf868e44efb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SelectTV_SPIN/playlist.m3u8?ads.wurl_channel=1426&ads.wurl_name=SPIN&ads.coppa=0
+#EXTINF:-1 tvg-id="cms-nashville-country-tv" tvg-name="cms-nashville-country-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/59ff4606-8a6c-43e1-ae68-1d557851f889-1676496743.417652.256x256.jpg" group-title="Music", Nashville Country TV
+https://freecast.telos.indicue.com/stream.m3u8?aid=7491&m=aHR0cHM6Ly9obHMuc2hvd2Zlci5jb20vbGl2ZS9TT0U5UC9OYXNodmlsbGVfQ291bnRyeV9UVi9mcmVlY2FzdC5tM3U4
+#EXTINF:-1 tvg-id="cms-myjam-music" tvg-name="cms-myjam-music" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/baeac956-18b3-4da2-af63-aa7a12619874-1713882820.244996.256x256.png" group-title="Music", MyJam Music
+https://freecast.telos.indicue.com/stream.m3u8?aid=6397&m=aHR0cHM6Ly9obHMuc2hvd2Zlci5jb20vbWFzdGVyL3RacnhZL015X0phbV9NdXNpYy9GcmVlY2FzdC5tM3U4
+#EXTINF:-1 tvg-id="cms-trace-latina" tvg-name="cms-trace-latina" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/aae28e09-9e52-4a1e-8947-cc56506fff16-1759262045.962621.256x256.png" group-title="Music", TRACE Latina
+https://freecast.telos.indicue.com/stream.m3u8?aid=6398&m=aHR0cHM6Ly9kMTZ5cHRwYml1bGR0dC5jbG91ZGZyb250Lm5ldC8wNTBlZDhjMjk0ZmU0NDhlYTBhYzM2M2UzYjdhMGJmMi9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="cms-trace-brasil" tvg-name="cms-trace-brasil" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/737f54e6-fb92-4cd0-8b98-040933811658-1759262079.149507.256x256.png" group-title="Music", TRACE Brasil
+https://freecast.telos.indicue.com/stream.m3u8?aid=6399&m=aHR0cHM6Ly9kMTZ5cHRwYml1bGR0dC5jbG91ZGZyb250Lm5ldC82NTU2MzY5NzEzNzE0MjhkYTU0NmE2MjE3ODkyMzNmOC9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="cms-trace-uk" tvg-name="cms-trace-uk" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/1bb473db-741f-4814-a0d6-2734ffe72d3b-1759261933.943427.256x256.png" group-title="Music", TRACE UK
+https://freecast.telos.indicue.com/stream.m3u8?aid=6394&m=aHR0cHM6Ly9kMTZ5cHRwYml1bGR0dC5jbG91ZGZyb250Lm5ldC9hOTE0OGUzYmVjZTU0Y2I2YWMwOTQ1NTMyZDEzZmQ3Ny9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="cms-our-vinyl" tvg-name="cms-our-vinyl" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/fa57ef41-4922-4969-b01e-17b5639269f5-1723058356.915744.256x256.png" group-title="Music", OurVinyl
+https://d2nx5yiqpih6ta.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freecast-MuxIP-OurVinyl/459.m3u8
+#EXTINF:-1 tvg-id="cms-feva-music" tvg-name="cms-feva-music" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/c5437abf-fb66-46e0-af07-b426ba0790ee-1712241493.632604.256x256.png" group-title="Music", FEVA MUSIC
+https://d21pb948k6jzer.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freecast-MuxIP-FEVAMUSIC/417.m3u8
+#EXTINF:-1 tvg-id="cms-3abn-praise-him-music-network" tvg-name="cms-3abn-praise-him-music-network" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/88bf5727-81e2-4e9c-be5c-3c095c208204-1750107735.258669.256x256.png" group-title="Music", 3ABN Praise Him Music Network
+https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
