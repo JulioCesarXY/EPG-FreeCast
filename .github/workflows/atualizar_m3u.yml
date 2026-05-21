@@ -1,0 +1,45 @@
+name: Atualizar Lista M3U FreeCast
+
+on:
+  schedule:
+    # Roda automaticamente a cada 12 horas (às 00:00 e 12:00 UTC)
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:
+    # Mantém o botão para você rodar manualmente quando quiser
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Baixa o código do seu repositório
+    - name: Checkout do código
+      uses: actions/checkout@v4
+
+    # 2. Configura o Python na máquina virtual
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    # 3. Instala a biblioteca requests
+    - name: Instalar Dependências
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    # 4. Roda o script para extrair os streams e gerar o M3U categorizado
+    - name: Rodar Extrator de Streams
+      run: python extrair_streams.py
+      env:
+        FREECAST_TOKEN: ${{ secrets.FREECAST_TOKEN }}
+
+    # 5. Salva a lista .m3u de volta no seu GitHub
+    - name: Commit e Push da Lista M3U
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add freecast_canais_categorias.m3u
+        # Só commita se o arquivo realmente tiver mudado de conteúdo
+        git diff --quiet && git diff --staged --quiet || git commit -m "Auto: Lista M3U atualizada ✅ [skip ci]"
+        git push
