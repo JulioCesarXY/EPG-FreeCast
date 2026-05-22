@@ -10,6 +10,11 @@ Este repositório contém uma solução automatizada em Python para mapear, cate
 
 Toda a infraestrutura é atualizada de forma 100% autônoma utilizando o **GitHub Actions**.
 
+
+---
+
+![Demostração](grafico.png)
+
 ---
 
 ![Demostração](Screenshot.png)
