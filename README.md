@@ -2,7 +2,7 @@
 
 [![Status do EPG](https://github.com/JulioCesarXY/EPG-FreeCast/actions/workflows/atualizar_epg.yml/badge.svg)](https://github.com/JulioCesarXY/EPG-FreeCast/actions/workflows/atualizar_epg.yml)
 [![Status da Lista M3U](https://github.com/JulioCesarXY/EPG-FreeCast/actions/workflows/atualizar_m3u.yml/badge.svg)](https://github.com/JulioCesarXY/EPG-FreeCast/actions/workflows/atualizar_m3u.yml)
-![Status da API FreeCast](https://img.shields.io/http/status/https/api-services.freecast.com/live/api/v10/watch-freecast-com/web/packages/free/categories/.svg?label=API%20FreeCast&color=success)
+![API FreeCast](https://img.shields.io/badge/API_FreeCast-Online-brightgreen?style=flat&logo=mediafire&logoColor=white)
 
 
 
