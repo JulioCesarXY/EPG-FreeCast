@@ -1,4 +1,4 @@
-# 🛰️ FreeCast IPTV Automation Suite (M3U + XMLTV)
+# 🛰️ FreeCast IPTV Automação Suite (M3U + XMLTV)
 
 [![Status do EPG](https://github.com/JulioCesarXY/EPG-FreeCast/actions/workflows/atualizar_epg.yml/badge.svg)](https://github.com/JulioCesarXY/EPG-FreeCast/actions/workflows/atualizar_epg.yml)
 [![Status da Lista M3U](https://github.com/JulioCesarXY/EPG-FreeCast/actions/workflows/atualizar_m3u.yml/badge.svg)](https://github.com/JulioCesarXY/EPG-FreeCast/actions/workflows/atualizar_m3u.yml)
