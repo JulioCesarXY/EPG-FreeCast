@@ -353,10 +353,10 @@ https://streams2.sofast.tv/ptnr-freecast/title-TYC_SPORTS_Freecast/v1/master/611
 https://amg02724-amg02724c4-amgplt0065.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02724-amg02724c4-amgplt0065/playlist.m3u8
 #EXTINF:-1 tvg-id="cms-rcn-mas" tvg-name="cms-rcn-mas" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/90240bca-c750-49d9-8af7-12ae7c663b9b-1744985371.628419.256x256.jpg" group-title="Mis Canales", RCN Más
 https://941c68d5e2a64f6594985d92f33fc953.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SelectTV_RCNMas/playlist.m3u8?ads.wurl_channel=926&ads.wurl_name=RCNMas&ads.coppa=0&ads.custom=%7BCUSTOM%7D
-#EXTINF:-1 tvg-id="cms-novelisima" tvg-name="cms-novelisima" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/33009681-d88f-43a9-b20b-c62d2d90d675-1684517589.609057.256x256.jpg" group-title="Mis Canales", Novelísima
-https://freecast.telos.indicue.com/stream.m3u8?aid=6405&m=aHR0cHM6Ly9jaXMtbm8tZXMtZnJlZWNhc3Qub3R0ZXJhdmlzaW9uLmNvbS9jaXMvbm9fZXMvbm9fZXMubTN1OA==
 #EXTINF:-1 tvg-id="cms-corazon" tvg-name="cms-corazon" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/63a68b08-8108-452f-8b94-cb5ee2f4e94b-1759257698.660898.256x256.png" group-title="Mis Canales", Corazon
 https://api-ott-azteca-azt.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=61&partner=freecast
+#EXTINF:-1 tvg-id="cms-novelisima" tvg-name="cms-novelisima" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/33009681-d88f-43a9-b20b-c62d2d90d675-1684517589.609057.256x256.jpg" group-title="Mis Canales", Novelísima
+https://freecast.telos.indicue.com/stream.m3u8?aid=6405&m=aHR0cHM6Ly9jaXMtbm8tZXMtZnJlZWNhc3Qub3R0ZXJhdmlzaW9uLmNvbS9jaXMvbm9fZXMvbm9fZXMubTN1OA==
 #EXTINF:-1 tvg-id="cms-romance" tvg-name="cms-romance" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/84bd4e17-3aa1-4167-872e-053f40dbdf0f-1722277359.28722.256x256.png" group-title="Mis Canales", Romance
 https://freecast.telos.indicue.com/stream.m3u8?troute=134&m=aHR0cHM6Ly9lZGdlLWZhc3QyLmV2cmlkZW8udHYvMGJjODUzMWYtOTE5Mi00YzNmLWExNTctZmMwNTJmNWEwNDVmXzEwMDAwMjYxOTFfSExTL21hbmlmZXN0Lm0zdTg=
 #EXTINF:-1 tvg-id="cms-mundo-series" tvg-name="cms-mundo-series" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/59edb23e-67d8-4c6a-bb74-9ad280f20700-1722952348.07724.256x256.png" group-title="Mis Canales", Mundo Series
@@ -381,10 +381,10 @@ https://freecast.telos.indicue.com/stream.m3u8?aid=6392&m=aHR0cHM6Ly9zdHJlYW1zMi
 https://8dcdb001b1da4ebdb566c1e443a079d1.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SelectTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184&ads.wurl_name=PeliMex&ads.coppa=0
 #EXTINF:-1 tvg-id="cms-suspenso" tvg-name="cms-suspenso" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/9c16771b-a786-4e56-8d7e-e03be20c0dfc-1722277462.035375.256x256.png" group-title="Mis Canales", Suspenso
 https://freecast.telos.indicue.com/stream.m3u8?troute=135&m=aHR0cHM6Ly9lZGdlLWZhc3QzLmV2cmlkZW8udHYvYTEzMWNmOWMtZmIxOS00Yjc3LTk1YmQtNTJlYmM1ZTJkYWEwXzEwMDAwMjcwOTBfSExTL21hbmlmZXN0Lm0zdTg=
-#EXTINF:-1 tvg-id="sc-390776" tvg-name="sc-390776" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/550bb2b0-026c-4fe2-a14a-2540d9c3e661-1707856471.344073.256x256.png" group-title="Mis Canales", FreeTV Terror
-https://api-ott-oly-fv.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=19363&partner=freecast
 #EXTINF:-1 tvg-id="cms-cine-de-horror" tvg-name="cms-cine-de-horror" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/9fdcb6f9-0e91-475f-b6ac-11eb1b40acd9-1776801205.14006.256x256.png" group-title="Mis Canales", Cine de Horror
 https://amg02724-amg02724c1-amgplt0065.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02724-amg02724c1-amgplt0065/playlist.m3u8
+#EXTINF:-1 tvg-id="sc-390776" tvg-name="sc-390776" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/550bb2b0-026c-4fe2-a14a-2540d9c3e661-1707856471.344073.256x256.png" group-title="Mis Canales", FreeTV Terror
+https://api-ott-oly-fv.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=19363&partner=freecast
 #EXTINF:-1 tvg-id="sc-390777" tvg-name="sc-390777" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/b86aea98-0397-49b5-b3cc-1896bcd33b6f-1707856527.759923.256x256.png" group-title="Mis Canales", FreeTV Saber Mas
 https://api-ott-oly-fv.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=23364&partner=freecast
 #EXTINF:-1 tvg-id="cms-freetv-clasico" tvg-name="cms-freetv-clasico" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/a8e9a317-4831-496f-af6f-e724217c3b28-1726504729.46002.256x256.png" group-title="Mis Canales", FreeTV Clasico
@@ -421,10 +421,10 @@ https://freecast.telos.indicue.com/stream.m3u8?aid=6362&m=aHR0cHM6Ly9saW5lYXItMT
 https://d3k5y954fiztgy.cloudfront.net/FREECAST/CTN-2b0dd347-f7b0-e7ed-9096-68966d29db50/index.m3u8
 #EXTINF:-1 tvg-id="cms-tct-network" tvg-name="cms-tct-network" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/c3749386-e684-4c55-8453-aa2ed8c04b20-1770404140.181368.256x256.png" group-title="Faith", TCT Network
 https://d3k5y954fiztgy.cloudfront.net/v1/master/36da43ef19a73084c6c27662c7531ffa75a2f69f/prod_fast_TCT/index.m3u8
-#EXTINF:-1 tvg-id="cms-intouch" tvg-name="cms-intouch" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/62c53863-f4bb-42e1-a94c-0051c3eeec63-1676410661.881086.256x256.jpg" group-title="Faith", In Touch+
-https://amg01540-amg01540c2-freecast-us-9337.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="sc-389355" tvg-name="sc-389355" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/b4e30f1c-803f-4f17-a1e3-3f2b503935a1-1687810848.138944.256x256.jpg" group-title="Faith", SonLife
 https://d3k5y954fiztgy.cloudfront.net/FREECAST/SBN-FC-96e2a092-6341-fd29-0c82-6896712f2dbc/index.m3u8
+#EXTINF:-1 tvg-id="cms-intouch" tvg-name="cms-intouch" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/62c53863-f4bb-42e1-a94c-0051c3eeec63-1676410661.881086.256x256.jpg" group-title="Faith", In Touch+
+https://amg01540-amg01540c2-freecast-us-9337.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="cms-3abn" tvg-name="cms-3abn" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/139c211e-1f81-471a-902f-a5837f18c67a-1750107640.160823.256x256.png" group-title="Faith", 3ABN
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sc-384852" tvg-name="sc-384852" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/5d46af88-069a-40f3-894b-1be8eac62c0d-1677065049.165691.256x256.jpg" group-title="Faith", Faith TV
