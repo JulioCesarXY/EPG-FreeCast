@@ -27,7 +27,6 @@ Após a execução das automações, o GitHub gera os links diretos (*Raw*) abai
     https://raw.githubusercontent.com/JulioCesarXY/EPG-FreeCast/refs/heads/main/freecast_epg.xml
     ```
 
-*(Nota: Substitua `SEU_USUARIO` e `SEU_REPOSITORIO` pelos dados reais do seu perfil e repositório do GitHub).*
 
 ---
 
