@@ -192,7 +192,7 @@ https://39cde7a6ea6448cd80eba6c2a9585313.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="sc-388633" tvg-name="sc-388633" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/feb47965-f63c-4b43-9df1-55dc495378e4-1684421911.431425.256x256.png" group-title="TV", iSciFi TV2
 https://freecast.telos.indicue.com/stream.m3u8?troute=151&m=aHR0cHM6Ly93aXNlY2RuYi53aXNlcGxheW91dC5jb20vbGl2ZS9pU2NpZmlhbmRUaHJpbGxlcnpUVi9tYXN0ZXIubTN1OA==
 #EXTINF:-1 tvg-id="sc-400554" tvg-name="sc-400554" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/1752ef53-cef5-4228-bf0b-0b2e25bfb063-1677067573.345803.256x256.png" group-title="TV", Loupe
-https://lotus.stingray.com/ads/loupe-loupe001-montreal/freecast/master.m3u8
+https://lotus.stingray.com/manifest/loupe-loupe001-montreal/freecast/master.m3u8
 #EXTINF:-1 tvg-id="cms-drone-tv" tvg-name="cms-drone-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/737e0665-4cdf-4bde-a55e-46813581747d-1729008554.288934.256x256.png" group-title="TV", Drone TV
 https://b2cd22e4577b48008059d7d0b69cf41c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SelectTV_DroneTV/playlist.m3u8?ads.wurl_channel=1072&ads.wurl_name=DroneTV&ads.coppa=0
 #EXTINF:-1 tvg-id="cms-free-movies-plus" tvg-name="cms-free-movies-plus" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/67005703-0fe9-4cdc-865f-2c8634cb054f-1713811274.60294.256x256.png" group-title="Movies", Free Movies +
