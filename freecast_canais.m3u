@@ -83,7 +83,7 @@ https://amg00378-mavtv-amg00378c4-freecast-us-1331.playouts.now.amagi.tv/playlis
 https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partner=selecttv
 #EXTINF:-1 tvg-id="sc-402998" tvg-name="sc-402998" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/65779425-b973-4b47-a25b-6303f837e730-1726588466.306647.256x256.png" group-title="Sports", PowerSports World
 https://freecast.telos.indicue.com/stream.m3u8?troute=131&m=aHR0cHM6Ly9iYmItcHdyc3AtZnJlZWNhc3Qub3R0ZXJhdmlzaW9uLmNvbS9iYmIvcHdyc3AvcHdyc3AubTN1OA==
-#EXTINF:-1 tvg-id="cms-revn" tvg-name="cms-revn" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/d4474bb7-791f-414b-b739-60575959b3c6-1772222089.793518.256x256.png" group-title="Sports", REV’N
+#EXTINF:-1 tvg-id="cms-revn" tvg-name="cms-revn" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/d4474bb7-791f-414b-b739-60575959b3c6-1779809037.598664.256x256.png" group-title="Sports", Rev'n Action
 https://freecast.telos.indicue.com/stream.m3u8?troute=141&m=aHR0cHM6Ly9mcmVlY2FzdC1sdWtlbnR2bGl2ZS52Z2Nkbi5uZXQvb3V0L3YxL2E0ZjMxZjI5N2ZjNTQ0MGY4MTRiZDJjZmZkNzdlNjg5L2luZGV4Lm0zdTg=
 #EXTINF:-1 tvg-id="cms-chrono-tv" tvg-name="cms-chrono-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/5df2fce2-ba69-4606-86fd-a7e6160ba6d2-1689107048.310253.256x256.png" group-title="Sports", Chrono TV
 https://streams2.sofast.tv/ptnr-Freecast/title-CHRONO-TV-ENG_Freecast/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5773255d-8d37-4d04-bc83-a1d2df571fe1/manifest.m3u8?ads.channel_name=chrono-tv-eng
