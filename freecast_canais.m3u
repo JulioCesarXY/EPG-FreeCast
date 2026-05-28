@@ -151,6 +151,14 @@ https://api-ott.watchnost.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=10
 https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8
 #EXTINF:-1 tvg-id="cms-binge-tv" tvg-name="cms-binge-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/1cef000a-abb0-4d29-9011-e0e4519e22ce-1773859464.420999.256x256.png" group-title="TV", Binge TV
 https://freecast.telos.indicue.com/stream.m3u8?aid=6966&m=aHR0cHM6Ly92aWRlb3N0YWNrMS5jZG5zdHJlYW0xLmNvbToxOTM2L2JpbmdlLXR2L2JpbmdlLXR2L3BsYXlsaXN0Lm0zdTg=
+#EXTINF:-1 tvg-id="cms-silverspur-tv" tvg-name="cms-silverspur-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/ff97a9e1-4fb5-4f7b-8927-d5169fa26f56-1778681866.796891.256x256.png" group-title="TV", SilverSpur TV
+https://freecast.telos.indicue.com/stream.m3u8?aid=8000&m=aHR0cHM6Ly9jb3JlbWVkaWEud2lzZXBsYXlvdXQuY29tL2xpdmUvU2lsdmVyc3B1clRWL21hc3Rlci5tM3U4
+#EXTINF:-1 tvg-id="cms-quinnly-tv" tvg-name="cms-quinnly-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/09c51d32-e9d6-410b-bd91-036d024b5336-1778681856.533812.256x256.png" group-title="TV", Quinnly TV
+https://freecast.telos.indicue.com/stream.m3u8?aid=7999&m=aHR0cHM6Ly9jb3JlbWVkaWEud2lzZXBsYXlvdXQuY29tL2xpdmUvUXVpbm5seVRWL21hc3Rlci5tM3U4
+#EXTINF:-1 tvg-id="cms-on-the-marc-tv" tvg-name="cms-on-the-marc-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/997b3240-b0f5-4954-80f1-a067b209c09f-1778681907.551826.256x256.png" group-title="TV", On The Marc TV
+https://freecast.telos.indicue.com/stream.m3u8?aid=8002&m=aHR0cHM6Ly9tYXJjLXdpc2Uud2lzZXBsYXlvdXQuY29tL09uVGhlTWFyY1RWL3BsYXlsaXN0Lm0zdTg=
+#EXTINF:-1 tvg-id="cms-spydar-tv" tvg-name="cms-spydar-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/4613c640-9aa8-4acd-a579-e13443747ee3-1778685242.66952.256x256.png" group-title="TV", Spydar TV
+https://freecast.telos.indicue.com/stream.m3u8?aid=8003&m=aHR0cHM6Ly9jbGFzc2ljNTEud2lzZXBsYXlvdXQuY29tOjQ0NjYvQ2xhc3NpYzUxL21hc3Rlci5tM3U4
 #EXTINF:-1 tvg-id="sc-388654" tvg-name="sc-388654" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/92163488-6fc4-40ee-8560-8f305f5a7164-1684437677.255743.256x256.png" group-title="TV", iCowboy TV
 https://freecast.telos.indicue.com/stream.m3u8?troute=160&m=aHR0cHM6Ly93aXNlY2RuYi53aXNlcGxheW91dC5jb20vbGl2ZS9jb3dib3l0di9tYXN0ZXIubTN1OA==
 #EXTINF:-1 tvg-id="cms-swaagtvonpoynt" tvg-name="cms-swaagtvonpoynt" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/700f3760-b04e-48c0-ab94-8b8efc31913c-1769189574.394964.256x256.png" group-title="TV", SWAAGTVonPOYNT
@@ -207,6 +215,8 @@ https://freecast.telos.indicue.com/stream.m3u8?troute=148&m=aHR0cHM6Ly9saW5lYXIt
 https://d1fkc5hdg9r4d9.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freecast-MuxIP-CrimeFlix/391.m3u8
 #EXTINF:-1 tvg-id="sc-399830" tvg-name="sc-399830" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/3dd37324-a776-4f99-80ac-73807663f64f-1677066418.357304.256x256.jpg" group-title="Movies", Horror Machine
 https://freecast.telos.indicue.com/stream.m3u8?aid=6575&m=aHR0cHM6Ly9saW5lYXItODIuZnJlcXVlbmN5LnN0cmVhbS9kaXN0L2ZyZWVjYXN0LzgyL2hscy9tYXN0ZXIvcGxheWxpc3QubTN1OA==
+#EXTINF:-1 tvg-id="cms-marc-in-the-dark" tvg-name="cms-marc-in-the-dark" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/b9109ec6-22f9-46f1-b246-50786af602fe-1778683071.34646.256x256.png" group-title="Movies", Marc In The Dark
+https://freecast.telos.indicue.com/stream.m3u8?aid=8001&m=aHR0cHM6Ly9tYXJjLXdpc2Uud2lzZXBsYXlvdXQuY29tL01hcmNJblRoZURhcmsvcGxheWxpc3QubTN1OA==
 #EXTINF:-1 tvg-id="cms-heartfelt-tv" tvg-name="cms-heartfelt-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/635a9745-9180-47b0-b0d7-b72c3a281019-1692297935.523625.256x256.png" group-title="Movies", Heartfelt TV
 https://streams2.sofast.tv/ptnr-freecast/title-HEARTFELT-TV-ENG_Freecast/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9709ca1c-9c03-4f62-a30c-2a07742eff05/manifest.m3u8?ads.channel_name=heartfelt-tv-eng
 #EXTINF:-1 tvg-id="cms-lol-tv" tvg-name="cms-lol-tv" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/e457a3a0-fb4e-4e0d-ba08-8e01e711fdb0-1689703095.644513.256x256.png" group-title="Movies", LOL TV
